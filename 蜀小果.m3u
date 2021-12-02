@@ -1,413 +1,517 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 ,CCTV1
 http://live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1 ,CCTV2
 http://live.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+#EXTINF:-1 ,CCTV3
 http://live.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
+#EXTINF:-1 ,CCTV4
 http://live.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1 ,CCTV5
 http://live.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+#EXTINF:-1 ,CCTV5+
 http://live.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+#EXTINF:-1 ,CCTV6
 http://live.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1 ,CCTV7
 http://live.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+#EXTINF:-1 ,CCTV8
 http://live.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
+#EXTINF:-1 ,CCTV9
 http://live.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+#EXTINF:-1 ,CCTV10
 http://live.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
+#EXTINF:-1 ,CCTV11
 http://live.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+#EXTINF:-1 ,CCTV12
 http://live.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
+#EXTINF:-1 ,CCTV13
 http://live.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 ,CCTV14
 http://live.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
+#EXTINF:-1 ,CCTV15
 http://live.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+#EXTINF:-1 ,CCTV16
+http://live.rxip.sc96655.com/live/CCTV-16_4000.m3u8
+#EXTINF:-1 ,CCTV17
 http://live.rxip.sc96655.com/live/CCTV-17_4000.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
+#EXTINF:-1 ,CCTV4K
 http://live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",CCTV风云音乐
-http://live.rxip.sc96655.com/live/fyyy_4000.m3u8
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
-http://live.rxip.sc96655.com/live/fyjc_2000.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV风云足球
-http://live.rxip.sc96655.com/live/fyzq_2000.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",CCTV怀旧剧场
-http://live.rxip.sc96655.com/live/hjjc_2000.m3u8
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV第一剧场
-http://live.rxip.sc96655.com/live/dyjc_2000.m3u8
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV世界地理
-http://live.rxip.sc96655.com/live/sjdl_4000.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",CCTV兵器科技
-http://live.rxip.sc96655.com/live/gfjs_4000.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",CCTV女性时尚
-http://live.rxip.sc96655.com/live/nxss_4000.m3u8
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV央视台球
-http://live.rxip.sc96655.com/live/ystq_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中央新影-中学生
-http://live.rxip.sc96655.com/live/zxs_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV1
-http://live.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
-#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV早期教育
-http://live.rxip.sc96655.com/live/zqjy_4000.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
-http://live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
-http://live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
-http://live.rxip.sc96655.com/live/gef.wqCHCdzdyH265_4000.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
-http://live.rxip.sc96655.com/live/tjwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://live.rxip.sc96655.com/live/cqwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://live.rxip.sc96655.com/live/hljwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://live.rxip.sc96655.com/live/jlwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://live.rxip.sc96655.com/live/nmgws_4000.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://live.rxip.sc96655.com/live/gsws_4000.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
-http://live.rxip.sc96655.com/live/qhwsH264_2000.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://live.rxip.sc96655.com/live/sxws_4000.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
-http://live.rxip.sc96655.com/live/sxws42_4000.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://live.rxip.sc96655.com/live/sdwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://live.rxip.sc96655.com/live/ahwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://live.rxip.sc96655.com/live/hnws35_4000.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://live.rxip.sc96655.com/live/hbwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://live.rxip.sc96655.com/live/hnwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://live.rxip.sc96655.com/live/jxwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://live.rxip.sc96655.com/live/jswsH265_4000.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://live.rxip.sc96655.com/live/zjwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://live.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://live.rxip.sc96655.com/live/gdwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://live.rxip.sc96655.com/live/szwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://live.rxip.sc96655.com/live/gxws_4000.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://live.rxip.sc96655.com/live/ynws_4000.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://live.rxip.sc96655.com/live/gzwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://live.rxip.sc96655.com/live/scwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
-http://live.rxip.sc96655.com/live/kbwsH264_2000.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
-http://live.rxip.sc96655.com/live/btws_4000.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://live.rxip.sc96655.com/live/xzwsH264_2000.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://live.rxip.sc96655.com/live/hnws_4000.m3u8
-#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
-http://live.rxip.sc96655.com/live/shdy_4000.m3u8
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
-http://live.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭理财
-http://live.rxip.sc96655.com/live/jtlc_4000.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
-http://live.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
-http://live.rxip.sc96655.com/live/shssH265_4000.m3u8
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
-http://live.rxip.sc96655.com/live/mlyy_4000.m3u8
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
-http://live.rxip.sc96655.com/live/jsqcH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
-http://live.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
-http://live.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
-#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
-http://live.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
-http://live.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="地方",先锋乒羽
-http://live.rxip.sc96655.com/live/xfpy_4000.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://live.rxip.sc96655.com/live/jykt_2000.m3u8
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://live.rxip.sc96655.com/live/jjkt_2000.m3u8
-#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="地方",环球奇观
-http://live.rxip.sc96655.com/live/hqqg_4000.m3u8
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",梨园频道
-http://live.rxip.sc96655.com/live/ly_4000.m3u8
-#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="地方",武术世界
-http://live.rxip.sc96655.com/live/wssj_4000.m3u8
-#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
-http://live.rxip.sc96655.com/live/sh_4000.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
-http://live.rxip.sc96655.com/live/bjjs_2000.m3u8
-#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方",天元围棋
-http://live.rxip.sc96655.com/live/tywq_2000.m3u8
-#EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="地方",摄影频道
-http://live.rxip.sc96655.com/live/sy_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
-http://live.rxip.sc96655.com/live/sdjy_4000.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://live.rxip.sc96655.com/live/scwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
-http://live.rxip.sc96655.com/live/kbwsH264_2000.m3u8
-#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化旅游
-http://live.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济
-http://live.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
-#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻资讯
-http://live.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
-#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视
-http://live.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",四川妇女儿童
-http://live.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
-#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教
-http://live.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
-#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="四川",四川公共
-http://live.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
-#EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",四川峨嵋电影
-http://live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
-#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="四川",峨眉电影4K
+#EXTINF:-1 ,CCTV16-4K
+http://live.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
+#EXTINF:-1 ,峨眉电影4K
 http://live.rxip.sc96655.com/live/emdy4k_8000.m3u8
-#EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻综合
+#EXTINF:-1 ,CCTV风云音乐
+http://live.rxip.sc96655.com/live/fyyy_4000.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://live.rxip.sc96655.com/live/fyjc_2000.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://live.rxip.sc96655.com/live/fyzq_2000.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://live.rxip.sc96655.com/live/hjjc_2000.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://live.rxip.sc96655.com/live/dyjc_2000.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://live.rxip.sc96655.com/live/sjdl_4000.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://live.rxip.sc96655.com/live/gfjs_4000.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://live.rxip.sc96655.com/live/nxss_4000.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://live.rxip.sc96655.com/live/ystq_4000.m3u8
+#EXTINF:-1 ,中央新影-中学生
+http://live.rxip.sc96655.com/live/zxs_4000.m3u8
+#EXTINF:-1 ,CETV1
+http://live.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
+#EXTINF:-1 ,CETV早期教育
+http://live.rxip.sc96655.com/live/zqjy_4000.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1 ,CHC家庭电影
+http://live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
+#EXTINF:-1 ,凤凰中文
+http://live.rxip.sc96655.com/live/test1_4000.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://live.rxip.sc96655.com/live/test2_4000.m3u8
+#EXTINF:-1 ,精品导视
+http://live.rxip.sc96655.com/live/jpdsH265.m3u8
+#EXTINF:-1 ,川网导视
+http://live.rxip.sc96655.com/live/cwdsHDH264.m3u8
+#EXTINF:-1 ,北京卫视
+http://live.rxip.sc96655.com/live/bjwsH265_4000.m3u8
+#EXTINF:-1 ,东方卫视
+http://live.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+#EXTINF:-1 ,天津卫视
+http://live.rxip.sc96655.com/live/tjwsH265_4000.m3u8
+#EXTINF:-1 ,重庆卫视
+http://live.rxip.sc96655.com/live/cqwsH265_4000.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://live.rxip.sc96655.com/live/hljwsH265_4000.m3u8
+#EXTINF:-1 ,吉林卫视
+http://live.rxip.sc96655.com/live/jlwsH265_4000.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://live.rxip.sc96655.com/live/nmgws_4000.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://live.rxip.sc96655.com/live/gsws_4000.m3u8
+#EXTINF:-1 ,青海卫视
+http://live.rxip.sc96655.com/live/qhwsH264_2000.m3u8
+#EXTINF:-1 ,陕西卫视
+http://live.rxip.sc96655.com/live/sxws_4000.m3u8
+#EXTINF:-1 ,山西卫视
+http://live.rxip.sc96655.com/live/sxws42_4000.m3u8
+#EXTINF:-1 ,山东卫视
+http://live.rxip.sc96655.com/live/sdwsH265_4000.m3u8
+#EXTINF:-1 ,安徽卫视
+http://live.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+#EXTINF:-1 ,河南卫视
+http://live.rxip.sc96655.com/live/hnws35_4000.m3u8
+#EXTINF:-1 ,湖北卫视
+http://live.rxip.sc96655.com/live/hbwsH265_4000.m3u8
+#EXTINF:-1 ,湖南卫视
+http://live.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+#EXTINF:-1 ,江西卫视
+http://live.rxip.sc96655.com/live/jxwsH265_4000.m3u8
+#EXTINF:-1 ,江苏卫视
+http://live.rxip.sc96655.com/live/jswsH265_4000.m3u8
+#EXTINF:-1 ,浙江卫视
+http://live.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+#EXTINF:-1 ,东南卫视
+http://live.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8
+#EXTINF:-1 ,广东卫视
+http://live.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+#EXTINF:-1 ,深圳卫视
+http://live.rxip.sc96655.com/live/szwsH265_4000.m3u8
+#EXTINF:-1 ,广西卫视
+http://live.rxip.sc96655.com/live/gxws_4000.m3u8
+#EXTINF:-1 ,云南卫视
+http://live.rxip.sc96655.com/live/ynws_4000.m3u8
+#EXTINF:-1 ,贵州卫视
+http://live.rxip.sc96655.com/live/gzwsH265_4000.m3u8
+#EXTINF:-1 ,兵团卫视
+http://live.rxip.sc96655.com/live/btws_4000.m3u8
+#EXTINF:-1 ,西藏卫视
+http://live.rxip.sc96655.com/live/xzwsH264_2000.m3u8
+#EXTINF:-1 ,海南卫视
+http://live.rxip.sc96655.com/live/hnws_4000.m3u8
+#EXTINF:-1 ,四海钓鱼
+http://live.rxip.sc96655.com/live/shdy_4000.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://live.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8
+#EXTINF:-1 ,家庭理财
+http://live.rxip.sc96655.com/live/jtlc_4000.m3u8
+#EXTINF:-1 ,全纪实
+http://live.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8
+#EXTINF:-1 ,生活时尚
+http://live.rxip.sc96655.com/live/shssH265_4000.m3u8
+#EXTINF:-1 ,魅力足球
+http://live.rxip.sc96655.com/live/mlyy_4000.m3u8
+#EXTINF:-1 ,极速汽车
+http://live.rxip.sc96655.com/live/jsqcH265_4000.m3u8
+#EXTINF:-1 ,动漫秀场
+http://live.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8
+#EXTINF:-1 ,都市剧场
+http://live.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8
+#EXTINF:-1 ,新视觉
+http://live.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
+#EXTINF:-1 ,劲爆体育
+http://live.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
+#EXTINF:-1 ,先锋乒羽
+http://live.rxip.sc96655.com/live/xfpy_4000.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://live.rxip.sc96655.com/live/jykt_2000.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://live.rxip.sc96655.com/live/jjkt_2000.m3u8
+#EXTINF:-1 ,环球奇观
+http://live.rxip.sc96655.com/live/hqqg_4000.m3u8
+#EXTINF:-1 ,梨园频道
+http://live.rxip.sc96655.com/live/ly_4000.m3u8
+#EXTINF:-1 ,武术世界
+http://live.rxip.sc96655.com/live/wssj_4000.m3u8
+#EXTINF:-1 ,书画频道
+http://live.rxip.sc96655.com/live/sh_4000.m3u8
+#EXTINF:-1 ,北京冬奥纪实
+http://live.rxip.sc96655.com/live/bjjs_2000.m3u8
+#EXTINF:-1 ,天元围棋
+http://live.rxip.sc96655.com/live/tywq_2000.m3u8
+#EXTINF:-1 ,摄影频道
+http://live.rxip.sc96655.com/live/sy_4000.m3u8
+#EXTINF:-1 ,山东教育卫视
+http://live.rxip.sc96655.com/live/sdjy_4000.m3u8
+#EXTINF:-1 ,靓妆
+http://live.rxip.sc96655.com/live/jzH265.m3u8
+#EXTINF:-1 ,武术世界
+http://live.rxip.sc96655.com/live/wssj.m3u8
+#EXTINF:-1 ,文物宝库
+http://live.rxip.sc96655.com/live/wwbk.m3u8
+#EXTINF:-1 ,国学频道
+http://live.rxip.sc96655.com/live/kzktcsH264.m3u8
+#EXTINF:-1 ,四川卫视
+http://live.rxip.sc96655.com/live/scwsH265_4000.m3u8
+#EXTINF:-1 ,康巴卫视
+http://live.rxip.sc96655.com/live/kbwsH264_2000.m3u8
+#EXTINF:-1 ,四川文化旅游
+http://live.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
+#EXTINF:-1 ,四川经济
+http://live.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
+#EXTINF:-1 ,四川新闻资讯
+http://live.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
+#EXTINF:-1 ,四川影视
+http://live.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
+#EXTINF:-1 ,四川妇女儿童
+http://live.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
+#EXTINF:-1 ,四川科教
+http://live.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
+#EXTINF:-1 ,四川公共
+http://live.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
+#EXTINF:-1 ,四川峨嵋电影
+http://live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+#EXTINF:-1 ,成都新闻综合
 http://live.rxip.sc96655.com/live/CDTV-1_4000.m3u8
-#EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",成都经济资讯
+#EXTINF:-1 ,成都经济资讯
 http://live.rxip.sc96655.com/live/CDTV-2_4000.m3u8
-#EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",成都都市生活
+#EXTINF:-1 ,成都都市生活
 http://live.rxip.sc96655.com/live/CDTV-3_4000.m3u8
-#EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",成都影视文艺
+#EXTINF:-1 ,成都影视文艺
 http://live.rxip.sc96655.com/live/CDTV-4_4000.m3u8
-#EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共
+#EXTINF:-1 ,成都公共
 http://live.rxip.sc96655.com/live/CDTV-5_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大邑新闻综合
-http://live.rxip.sc96655.com/live/dyytH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",龙泉综合
-http://live.rxip.sc96655.com/live/lqxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都江堰综合
-http://live.rxip.sc96655.com/live/djyzh_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",彭州综合
-http://live.rxip.sc96655.com/live/pzxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",青白江综合
-http://live.rxip.sc96655.com/live/qbjxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金堂电视台
-http://live.rxip.sc96655.com/live/jtzhpd_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新都综合
-http://live.rxip.sc96655.com/live/xdzhpd_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",罗江综合
-http://live.rxip.sc96655.com/live/ljxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中江新闻综合
-http://live.rxip.sc96655.com/live/zjxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广汉综合
-http://live.rxip.sc96655.com/live/ghxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绵竹综合
-http://live.rxip.sc96655.com/live/mzxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绵阳新闻综合
-http://live.rxip.sc96655.com/live/myytH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绵阳公共
-http://live.rxip.sc96655.com/live/myetH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",雅安新闻综合
-http://live.rxip.sc96655.com/live/yazh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",雅安公共
-http://live.rxip.sc96655.com/live/yagg_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宝兴综合
-http://live.rxip.sc96655.com/live/bxdst_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汉源综合
-http://live.rxip.sc96655.com/live/hyxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天泉新闻综合
-http://live.rxip.sc96655.com/live/tqzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐山新闻综合
-http://live.rxip.sc96655.com/live/lsxwzh_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐山公共
-http://live.rxip.sc96655.com/live/lsggpd_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",沙湾融媒
-http://live.rxip.sc96655.com/live/swxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",五通桥综合
-http://live.rxip.sc96655.com/live/wtqxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金口河综合
-http://live.rxip.sc96655.com/live/jkhdst_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",沐川综合
-http://live.rxip.sc96655.com/live/mcxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",夹江新闻综合
-http://live.rxip.sc96655.com/live/jjxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",峨眉综合
-http://live.rxip.sc96655.com/live/emsxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",犍为新闻综合
-http://live.rxip.sc96655.com/live/qwxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",马边综合
-http://live.rxip.sc96655.com/live/mbxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南溪综合
-http://live.rxip.sc96655.com/live/nxt_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珙县新闻综合
-http://live.rxip.sc96655.com/live/gxzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",兴文电视台
-http://live.rxip.sc96655.com/live/xwt_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",利州综合
-http://live.rxip.sc96655.com/live/lzxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",泸州公共
-http://live.rxip.sc96655.com/live/lzgg_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广元综合
-http://live.rxip.sc96655.com/live/gyzhH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广元公共
-http://live.rxip.sc96655.com/live/gyggH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",巴中综合
-http://live.rxip.sc96655.com/live/bzzhH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",巴中公共
-http://live.rxip.sc96655.com/live/bzggH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",巴州电视
-http://live.rxip.sc96655.com/live/bzxw_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",恩阳新闻
-http://live.rxip.sc96655.com/live/eyxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",平昌新闻综合
-http://live.rxip.sc96655.com/live/pcxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南江电视台
-http://live.rxip.sc96655.com/live/njxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",船山综合
-http://live.rxip.sc96655.com/live/csxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南充综合
-http://live.rxip.sc96655.com/live/ncxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",达州新闻综合
-http://live.rxip.sc96655.com/live/dzxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",达州公共
-http://live.rxip.sc96655.com/live/dzgg_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广安新闻综合
-http://live.rxip.sc96655.com/live/gaxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广安公共
-http://live.rxip.sc96655.com/live/gagg_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",阆中综合
-http://live.rxip.sc96655.com/live/lzxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",仪陇新闻综合
-http://live.rxip.sc96655.com/live/ylxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南部新闻
-http://live.rxip.sc96655.com/live/nbxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",营山综合
-http://live.rxip.sc96655.com/live/ysxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",青川新闻综合
-http://live.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",昭化综合
-http://live.rxip.sc96655.com/live/zhxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",剑阁综合
-http://live.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",旺苍新闻综合
-http://live.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",朝天新闻综合
-http://live.rxip.sc96655.com/live/ctxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",合江新闻综合
-http://live.rxip.sc96655.com/live/hjxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",叙永电视台
-http://live.rxip.sc96655.com/live/xyxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纳溪一套
-http://live.rxip.sc96655.com/live/nxxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广安新闻综合
-http://live.rxip.sc96655.com/live/gaxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广安公共
-http://live.rxip.sc96655.com/live/gagg_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广安电视台
-http://live.rxip.sc96655.com/live/gaqxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",岳池综合
-http://live.rxip.sc96655.com/live/ycxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华蓥综合
-http://live.rxip.sc96655.com/live/hyxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",前锋综合
-http://live.rxip.sc96655.com/live/qfxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",邻水综合
-http://live.rxip.sc96655.com/live/lsxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安居综合
-http://live.rxip.sc96655.com/live/ajxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",达川电视台
-http://live.rxip.sc96655.com/live/dcxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",渠县新闻综合
-http://live.rxip.sc96655.com/live/qxxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宣汉新闻综合
-http://live.rxip.sc96655.com/live/xhxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",开江新闻综合
-http://live.rxip.sc96655.com/live/kjxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",万源综合
-http://live.rxip.sc96655.com/live/wyxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",自贡新闻综合
-http://live.rxip.sc96655.com/live/zgxw_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",自贡公共
-http://live.rxip.sc96655.com/live/zggg_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",富顺综合
-http://live.rxip.sc96655.com/live/fszh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",内江综合
-http://live.rxip.sc96655.com/live/njzh_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",内江公共
-http://live.rxip.sc96655.com/live/njgg_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",资阳新闻综合
-http://live.rxip.sc96655.com/live/zyxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",雁江综合
-http://live.rxip.sc96655.com/live/yjxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凉山新闻综合
-http://live.rxip.sc96655.com/live/lsxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",普格新闻综合
-http://live.rxip.sc96655.com/live/pgxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",米易综合
-http://live.rxip.sc96655.com/live/myxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浦江综合
-http://live.rxip.sc96655.com/live/pjxw_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",甘孜新闻综合
-http://live.rxip.sc96655.com/live/gzxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",武胜综合
-http://live.rxip.sc96655.com/live/wsxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",蓬溪新闻综合
-http://live.rxip.sc96655.com/live/pxxw_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",青神综合
-http://live.rxip.sc96655.com/live/qszh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",彭山综合
-http://live.rxip.sc96655.com/live/pszh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",西充新闻综合
-http://live.rxip.sc96655.com/live/xczh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",蓬安综合
-http://live.rxip.sc96655.com/live/pazh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高县综合
-http://live.rxip.sc96655.com/live/gxt_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",攀枝花新闻综合
-http://live.rxip.sc96655.com/live/pzhytH265_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜宾县电视台
-http://live.rxip.sc96655.com/live/ybx_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",什邡县电视台
-http://live.rxip.sc96655.com/live/sfx_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",雅安雨城
-http://live.rxip.sc96655.com/live/ycpd_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",简阳新闻综合
-http://live.rxip.sc96655.com/live/jyxwzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",通川区电视台
-http://live.rxip.sc96655.com/live/tcq_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",荣县综合
-http://live.rxip.sc96655.com/live/rxzh_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江安电视台
-http://live.rxip.sc96655.com/live/jat_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金牛电视台
-http://live.rxip.sc96655.com/live/jnyx_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",盐边电视台
-http://live.rxip.sc96655.com/live/ybtgq_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",成都高新区电视台
-http://live.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",郫县新闻综合
-http://live.rxip.sc96655.com/live/pxds1_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新津电视台
-http://live.rxip.sc96655.com/live/xjdst_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",洪雅新闻综合
-http://live.rxip.sc96655.com/live/hyzh_2000.m3u8
+#EXTINF:-1 ,成都高新区电视台
+http://live.rxip.sc96655.com/live/cdgxdstgq.m3u8
+#EXTINF:-1 ,大邑新闻综合
+http://live.rxip.sc96655.com/live/dyytH265.m3u8
+#EXTINF:-1 ,龙泉新闻综合
+http://live.rxip.sc96655.com/live/lqxw.m3u8
+#EXTINF:-1 ,都江堰综合
+http://live.rxip.sc96655.com/live/djyzh.m3u8
+#EXTINF:-1 ,彭州综合
+http://live.rxip.sc96655.com/live/pzxwzh.m3u8
+#EXTINF:-1 ,青白江综合
+http://live.rxip.sc96655.com/live/qbjxwzh.m3u8
+#EXTINF:-1 ,金堂电视台
+http://live.rxip.sc96655.com/live/jtzhpd.m3u8
+#EXTINF:-1 ,新都综合
+http://live.rxip.sc96655.com/live/xdzhpd.m3u8
+#EXTINF:-1 ,新津电视台
+http://live.rxip.sc96655.com/live/xjzh.m3u8
+#EXTINF:-1 ,蒲江电视台
+http://live.rxip.sc96655.com/live/pjxw.m3u8
+#EXTINF:-1 ,郫都新闻综合
+http://live.rxip.sc96655.com/live/pxds1.m3u8
+#EXTINF:-1 ,金牛电视台
+http://live.rxip.sc96655.com/live/jnyx.m3u8
+#EXTINF:-1 ,崇州一套
+http://live.rxip.sc96655.com/live/czyt.m3u8
+#EXTINF:-1 ,简阳新闻综合
+http://live.rxip.sc96655.com/live/jyxwzh.m3u8
+#EXTINF:-1 ,双流综合
+http://live.rxip.sc96655.com/live/slgq.m3u8
+#EXTINF:-1 ,温江新闻综合
+http://live.rxip.sc96655.com/live/wjytH264.m3u8
+#EXTINF:-1 ,绵阳新闻综合
+http://live.rxip.sc96655.com/live/myytH265.m3u8
+#EXTINF:-1 ,绵阳公共
+http://live.rxip.sc96655.com/live/myetH265.m3u8
+#EXTINF:-1 ,安州综合
+http://live.rxip.sc96655.com/live/azgq.m3u8
+#EXTINF:-1 ,梓潼综合
+http://live.rxip.sc96655.com/live/ztgq.m3u8
+#EXTINF:-1 ,盐亭综合
+http://live.rxip.sc96655.com/live/ytzh.m3u8
+#EXTINF:-1 ,平武综合
+http://live.rxip.sc96655.com/live/pwgq.m3u8
+#EXTINF:-1 ,北川一套
+http://live.rxip.sc96655.com/live/bcxwHD.m3u8
+#EXTINF:-1 ,三台一套
+http://live.rxip.sc96655.com/live/stxwHD.m3u8
+#EXTINF:-1 ,江油综合
+http://live.rxip.sc96655.com/live/jyxwHD.m3u8
+#EXTINF:-1 ,自贡新闻综合
+http://live.rxip.sc96655.com/live/zgxw.m3u8
+#EXTINF:-1 ,自贡公共
+http://live.rxip.sc96655.com/live/zggg.m3u8
+#EXTINF:-1 ,富顺综合
+http://live.rxip.sc96655.com/live/fszh.m3u8
+#EXTINF:-1 ,荣县综合
+http://live.rxip.sc96655.com/live/rxzh.m3u8
+#EXTINF:-1 ,攀枝花新闻综合
+http://live.rxip.sc96655.com/live/pzhytH265.m3u8
+#EXTINF:-1 ,攀枝花公共
+http://live.rxip.sc96655.com/live/pzhggpd.m3u8
+#EXTINF:-1 ,盐边电视台
+http://live.rxip.sc96655.com/live/ybtgq.m3u8
+#EXTINF:-1 ,米易综合
+http://live.rxip.sc96655.com/live/myxwzh.m3u8
+#EXTINF:-1 ,仁和新闻
+http://live.rxip.sc96655.com/live/rhxwH264.m3u8
+#EXTINF:-1 ,泸州公共
+http://live.rxip.sc96655.com/live/lzgg.m3u8
+#EXTINF:-1 ,合江新闻综合
+http://live.rxip.sc96655.com/live/hjxw.m3u8
+#EXTINF:-1 ,叙永电视台
+http://live.rxip.sc96655.com/live/xyxw.m3u8
+#EXTINF:-1 ,纳溪一套
+http://live.rxip.sc96655.com/live/nxxw.m3u8
+#EXTINF:-1 ,泸县综合
+http://live.rxip.sc96655.com/live/lxxwzh.m3u8
+#EXTINF:-1 ,古蔺新闻综合
+http://live.rxip.sc96655.com/live/glxwzhgq.m3u8
+#EXTINF:-1 ,绵竹综合
+http://live.rxip.sc96655.com/live/mzxwzh.m3u8
+#EXTINF:-1 ,中江新闻综合
+http://live.rxip.sc96655.com/live/zjxwzh.m3u8
+#EXTINF:-1 ,什邡新闻综合
+http://live.rxip.sc96655.com/live/sfx.m3u8
+#EXTINF:-1 ,广汉综合
+http://live.rxip.sc96655.com/live/ghxwzh.m3u8
+#EXTINF:-1 ,罗江综合
+http://live.rxip.sc96655.com/live/ljxwzh.m3u8
+#EXTINF:-1 ,广元综合
+http://live.rxip.sc96655.com/live/gyzhH265.m3u8
+#EXTINF:-1 ,广元公共
+http://live.rxip.sc96655.com/live/gyggH265.m3u8
+#EXTINF:-1 ,昭化综合
+http://live.rxip.sc96655.com/live/zhxwzh.m3u8
+#EXTINF:-1 ,剑阁综合
+http://live.rxip.sc96655.com/live/jgxwzhH265.m3u8
+#EXTINF:-1 ,旺苍新闻综合
+http://live.rxip.sc96655.com/live/wcxwzhH265.m3u8
+#EXTINF:-1 ,朝天新闻综合
+http://live.rxip.sc96655.com/live/ctxwzh.m3u8
+#EXTINF:-1 ,青川新闻综合
+http://live.rxip.sc96655.com/live/qcxwzhH265.m3u8
+#EXTINF:-1 ,利州综合
+http://live.rxip.sc96655.com/live/lzxwzh.m3u8
+#EXTINF:-1 ,苍溪综合
+http://live.rxip.sc96655.com/live/cxxwgqH265.m3u8
+#EXTINF:-1 ,遂宁新闻综合
+http://live.rxip.sc96655.com/live/snxwzhHDH265.m3u8
+#EXTINF:-1 ,遂宁公共
+http://live.rxip.sc96655.com/live/sngggq.m3u8
+#EXTINF:-1 ,安居综合
+http://live.rxip.sc96655.com/live/ajxw.m3u8
+#EXTINF:-1 ,大英新闻综合
+http://live.rxip.sc96655.com/live/dyxwzhH265.m3u8
+#EXTINF:-1 ,蓬溪新闻综合
+http://live.rxip.sc96655.com/live/pxxw.m3u8
+#EXTINF:-1 ,船山综合
+http://live.rxip.sc96655.com/live/csxw.m3u8
+#EXTINF:-1 ,射洪综合
+http://live.rxip.sc96655.com/live/shzhH264.m3u8
+#EXTINF:-1 ,内江综合
+http://live.rxip.sc96655.com/live/njzh.m3u8
+#EXTINF:-1 ,内江公共
+http://live.rxip.sc96655.com/live/njgg.m3u8
+#EXTINF:-1 ,东兴综合
+http://live.rxip.sc96655.com/live/dxxwzh.m3u8
+#EXTINF:-1 ,资中综合
+http://live.rxip.sc96655.com/live/zzzh.m3u8
+#EXTINF:-1 ,隆昌综合
+http://live.rxip.sc96655.com/live/lcxw.m3u8
+#EXTINF:-1 ,乐山新闻综合
+http://live.rxip.sc96655.com/live/lsxwzh.m3u8
+#EXTINF:-1 ,乐山公共
+http://live.rxip.sc96655.com/live/lsggpd.m3u8
+#EXTINF:-1 ,沙湾融媒
+http://live.rxip.sc96655.com/live/swxwzh.m3u8
+#EXTINF:-1 ,五通桥综合
+http://live.rxip.sc96655.com/live/wtqxwzh.m3u8
+#EXTINF:-1 ,金口河综合
+http://live.rxip.sc96655.com/live/jkhdst.m3u8
+#EXTINF:-1 ,沐川综合
+http://live.rxip.sc96655.com/live/mcxw.m3u8
+#EXTINF:-1 ,夹江新闻综合
+http://live.rxip.sc96655.com/live/jjxw.m3u8
+#EXTINF:-1 ,峨眉山综合
+http://live.rxip.sc96655.com/live/emsxw.m3u8
+#EXTINF:-1 ,犍为新闻综合
+http://live.rxip.sc96655.com/live/qwxwzh.m3u8
+#EXTINF:-1 ,马边综合
+http://live.rxip.sc96655.com/live/mbxwzh.m3u8
+#EXTINF:-1 ,峨边综合
+http://live.rxip.sc96655.com/live/ebdst.m3u8
+#EXTINF:-1 ,资阳新闻综合
+http://live.rxip.sc96655.com/live/zyxwzh.m3u8
+#EXTINF:-1 ,雁江综合
+http://live.rxip.sc96655.com/live/yjxw.m3u8
+#EXTINF:-1 ,安岳新闻综合
+http://live.rxip.sc96655.com/live/ayxwzh.m3u8
+#EXTINF:-1 ,宜宾新闻综合
+http://live.rxip.sc96655.com/live/ybytH264.m3u8
+#EXTINF:-1 ,宜宾公共
+http://live.rxip.sc96655.com/live/ybetH264.m3u8
+#EXTINF:-1 ,宜宾导视
+http://live.rxip.sc96655.com/live/ybds.m3u8
+#EXTINF:-1 ,宜宾县电视台
+http://live.rxip.sc96655.com/live/ybx.m3u8
+#EXTINF:-1 ,江安电视台
+http://live.rxip.sc96655.com/live/jat.m3u8
+#EXTINF:-1 ,珙县新闻综合
+http://live.rxip.sc96655.com/live/gxzh.m3u8
+#EXTINF:-1 ,兴文电视台
+http://live.rxip.sc96655.com/live/xwt.m3u8
+#EXTINF:-1 ,高县电视台
+http://live.rxip.sc96655.com/live/gxt.m3u8
+#EXTINF:-1 ,南溪综合
+http://live.rxip.sc96655.com/live/nxt.m3u8
+#EXTINF:-1 ,屏山新闻综合
+http://live.rxip.sc96655.com/live/psxwzh.m3u8
+#EXTINF:-1 ,筠连新闻综合
+http://live.rxip.sc96655.com/live/ylyt.m3u8
+#EXTINF:-1 ,南充综合
+http://live.rxip.sc96655.com/live/ncxwzh.m3u8
+#EXTINF:-1 ,南充公共
+http://live.rxip.sc96655.com/live/ncgg.m3u8
+#EXTINF:-1 ,西充新闻综合
+http://live.rxip.sc96655.com/live/xczh.m3u8
+#EXTINF:-1 ,南部新闻
+http://live.rxip.sc96655.com/live/nbxw.m3u8
+#EXTINF:-1 ,蓬安综合
+http://live.rxip.sc96655.com/live/pazh.m3u8
+#EXTINF:-1 ,阆中综合
+http://live.rxip.sc96655.com/live/lzxw.m3u8
+#EXTINF:-1 ,仪陇新闻综合
+http://live.rxip.sc96655.com/live/ylxw.m3u8
+#EXTINF:-1 ,营山综合
+http://live.rxip.sc96655.com/live/ysxw.m3u8
+#EXTINF:-1 ,达州新闻综合
+http://live.rxip.sc96655.com/live/dzxwzh.m3u8
+#EXTINF:-1 ,达州公共
+http://live.rxip.sc96655.com/live/zgg.m3u8
+#EXTINF:-1 ,达州导视
+http://live.rxip.sc96655.com/live/dzds.m3u8
+#EXTINF:-1 ,通川区电视台
+http://live.rxip.sc96655.com/live/xcxwzhH264.m3u8
+#EXTINF:-1 ,通川区电视台2
+http://live.rxip.sc96655.com/live/tcq.m3u8
+#EXTINF:-1 ,达川新闻综合
+http://live.rxip.sc96655.com/live/dcxwzh.m3u8
+#EXTINF:-1 ,渠县新闻综合
+http://live.rxip.sc96655.com/live/qxxwzh.m3u8
+#EXTINF:-1 ,宣汉新闻综合
+http://live.rxip.sc96655.com/live/xhxwzh.m3u8
+#EXTINF:-1 ,开江新闻综合
+http://live.rxip.sc96655.com/live/kjxwzh.m3u8
+#EXTINF:-1 ,万源综合
+http://live.rxip.sc96655.com/live/wyxwzh.m3u8
+#EXTINF:-1 ,雅安新闻综合
+http://live.rxip.sc96655.com/live/yazh.m3u8
+#EXTINF:-1 ,雅安公共
+http://live.rxip.sc96655.com/live/yagg.m3u8
+#EXTINF:-1 ,雅安雨城
+http://live.rxip.sc96655.com/live/ycpd.m3u8
+#EXTINF:-1 ,宝兴综合
+http://live.rxip.sc96655.com/live/bxdst.m3u8
+#EXTINF:-1 ,汉源新闻综合
+http://live.rxip.sc96655.com/live/hyxwzh.m3u8
+#EXTINF:-1 ,天全新闻综合
+http://live.rxip.sc96655.com/live/tqzh.m3u8
+#EXTINF:-1 ,石棉电视台
+http://live.rxip.sc96655.com/live/smxwzh.m3u8
+#EXTINF:-1 ,芦山新闻综合
+http://live.rxip.sc96655.com/live/lszh.m3u8
+#EXTINF:-1 ,名山电视台
+http://live.rxip.sc96655.com/live/msdstH265.m3u8
+#EXTINF:-1 ,广安新闻综合
+http://live.rxip.sc96655.com/live/gaxwzh.m3u8
+#EXTINF:-1 ,广安公共
+http://live.rxip.sc96655.com/live/gagg.m3u8
+#EXTINF:-1 ,广安区电视台
+http://live.rxip.sc96655.com/live/gaqxw.m3u8
+#EXTINF:-1 ,岳池综合
+http://live.rxip.sc96655.com/live/ycxw.m3u8
+#EXTINF:-1 ,华蓥综合
+http://live.rxip.sc96655.com/live/hyxw.m3u8
+#EXTINF:-1 ,前锋综合
+http://live.rxip.sc96655.com/live/qfxw.m3u8
+#EXTINF:-1 ,邻水综合
+http://live.rxip.sc96655.com/live/lsxw.m3u8
+#EXTINF:-1 ,武胜综合
+http://live.rxip.sc96655.com/live/wsxw.m3u8
+#EXTINF:-1 ,巴中综合
+http://live.rxip.sc96655.com/live/bzzhH265.m3u8
+#EXTINF:-1 ,巴中公共
+http://live.rxip.sc96655.com/live/bzggH265.m3u8
+#EXTINF:-1 ,巴州电视
+http://live.rxip.sc96655.com/live/bzxw.m3u8
+#EXTINF:-1 ,恩阳新闻
+http://live.rxip.sc96655.com/live/eyxw.m3u8
+#EXTINF:-1 ,平昌新闻综合
+http://live.rxip.sc96655.com/live/pcxw.m3u8
+#EXTINF:-1 ,南江电视台
+http://live.rxip.sc96655.com/live/njxw.m3u8
+#EXTINF:-1 ,通江综合
+http://live.rxip.sc96655.com/live/tjxwH265.m3u8
+#EXTINF:-1 ,眉山综合
+http://live.rxip.sc96655.com/live/msxwzhgq.m3u8
+#EXTINF:-1 ,眉山公共
+http://live.rxip.sc96655.com/live/msgg.m3u8
+#EXTINF:-1 ,彭山综合
+http://live.rxip.sc96655.com/live/pszh.m3u8
+#EXTINF:-1 ,青神综合
+http://live.rxip.sc96655.com/live/qszh.m3u8
+#EXTINF:-1 ,洪雅新闻综合
+http://live.rxip.sc96655.com/live/hyzh.m3u8
+#EXTINF:-1 ,丹棱新闻综合
+http://live.rxip.sc96655.com/live/dlxwzhH265.m3u8
+#EXTINF:-1 ,凉山新闻综合
+http://live.rxip.sc96655.com/live/lsxwHDH265.m3u8
+#EXTINF:-1 ,凉山彝语
+http://live.rxip.sc96655.com/live/yyzh.m3u8
+#EXTINF:-1 ,德昌电视台
+http://live.rxip.sc96655.com/live/dcxw.m3u8
+#EXTINF:-1 ,会理新闻综合
+http://live.rxip.sc96655.com/live/hlyt.m3u8
+#EXTINF:-1 ,普格新闻综合
+http://live.rxip.sc96655.com/live/pgxwzh.m3u8
+#EXTINF:-1 ,普格台
+http://live.rxip.sc96655.com/live/pgt.m3u8
+#EXTINF:-1 ,冕宁电视台
+http://live.rxip.sc96655.com/live/mnxw.m3u8
+#EXTINF:-1 ,西昌综合
+http://live.rxip.sc96655.com/live/xctHD.m3u8
+#EXTINF:-1 ,甘洛电视台
+http://live.rxip.sc96655.com/live/glt.m3u8
+#EXTINF:-1 ,甘孜新闻综合
+http://live.rxip.sc96655.com/live/gzxwzh.m3u8
