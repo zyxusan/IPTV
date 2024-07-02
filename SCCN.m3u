@@ -75,7 +75,7 @@ http://58.223.166.16/live2.rxip.sc96655.com/live/hnws35_4000.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://58.223.166.16/live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://58.223.166.16/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://58.223.166.16/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8
