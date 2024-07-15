@@ -9,8 +9,6 @@ http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
 http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
 http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事
@@ -33,12 +31,14 @@ http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
-http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K 超高清
 http://58.223.166.16/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
+http://58.223.166.16/live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K超高清电影 4K
 http://58.223.166.16/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
@@ -75,7 +75,7 @@ http://58.223.166.16/live2.rxip.sc96655.com/live/hnws35_4000.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://58.223.166.16/live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://58.223.166.16/live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://58.223.166.16/live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8
@@ -111,6 +111,8 @@ http://58.223.166.16/live2.rxip.sc96655.com/live/ynws_4000.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV-1
 http://58.223.166.16/live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV-2
+http://58.223.166.16/live2.rxip.sc96655.com/live/CETV-2_4000.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV-4
 http://58.223.166.16/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视",CHC动作电影
@@ -169,13 +171,13 @@ http://58.223.166.16/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/jz_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国天气
 http://58.223.166.16/live2.rxip.sc96655.com/live/zgqx_4000.m3u8
-#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",中央新影-发现之旅
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="央视",中央新影-发现之旅
 http://58.223.166.16/live2.rxip.sc96655.com/live/fxzl_2000.m3u8
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",中央新影-老故事
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视",中央新影-老故事
 http://58.223.166.16/live2.rxip.sc96655.com/live/lgs_2000.m3u8
-#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化旅游
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川经济
 http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川文化旅游
 http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻
 http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
