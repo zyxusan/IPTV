@@ -111,7 +111,7 @@ http://58.223.166.16/live2.rxip.sc96655.com/live/ynws_4000.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",CETV-1
 http://58.223.166.16/live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV-2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",CETV-2
 http://58.223.166.16/live2.rxip.sc96655.com/live/CETV-2_4000.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV-4
 http://58.223.166.16/live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8
@@ -187,7 +187,7 @@ http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教
 http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="四川",四川乡村
+#EXTINF:-1 tvg-id="7245" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sctv9.png" group-title="四川",四川乡村
 http://58.223.166.16/live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",四川峨嵋电影
 http://58.223.166.16/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8
