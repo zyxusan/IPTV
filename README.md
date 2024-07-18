@@ -2,3 +2,4 @@
 iptv
 sczy_CTCC是四川资阳的电信组播地址
 scya_CTCC是四川雅安雨城区电信组播
+sccd_CTCC是四川成都电信组播
