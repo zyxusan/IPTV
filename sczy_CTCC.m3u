@@ -39,6 +39,10 @@ http://192.168.1.6:7000/udp/239.93.28.36:8004
 http://192.168.1.6:7000/udp/239.93.57.42:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英语
 http://192.168.1.6:7000/udp/239.93.28.104:5140
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台-HD
+http://192.168.1.6:7000/udp/239.93.28.9:2192
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台-HD
+http://192.168.1.6:7000/udp/239.93.28.4:2191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩导视
 http://192.168.1.6:7000/udp/239.93.28.213:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
