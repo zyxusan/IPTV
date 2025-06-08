@@ -4,7 +4,7 @@
 凤凰资讯,https://tv.iill.top/phenix/fhzx
 凤凰香港,https://tv.iill.top/phenix/fhhk
 
-午夜频道_123,#genre#
+午夜频道,#genre#
 日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
 东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
@@ -16,7 +16,7 @@ Zoom tvhttp://185.236.229.62:9981/play/a02a
 3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
 极限,http://ali.hlspull.yximgs.com:80/live/2d7b99b886a1d12286c641d11cb0b283.flv
 pigo,http://ali.hlspull.yximgs.com:80/live/e1d0b7c095d39aca00e75858c7485f4d.flv
-台湾频道_123,#genre#
+台湾频道,#genre#
 happy,http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
 香蕉,http://ali.hlspull.yximgs.com:80/live/e8ca161fb933c424a984bc96d699adce.flv
 惊艳,http://ali.hlspull.yximgs.com:80/live/859b062483d82d16cc4591bbf033ece4.flv
@@ -29,7 +29,7 @@ e频道,http://ali.hlspull.yximgs.com:80/live/0377d6869f56f7af77f91da3714f3e84.f
 以上为临时源，
 无信号请重启软件，
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
-俄罗斯_28668,#genre#
+俄罗斯,#genre#
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
 femjoy,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/6212/index.m3u8
 Кино 18+,http://77fb8f92.amazzin.pw/iptv/ND5SZ7MVA9TTVS/18075/index.m3u8
@@ -1599,7 +1599,7 @@ Hustler TV,http://live.admuspeh.my/8128/index.m3u8?token=4gPHp5ZVYqDAR4oz
 FrenchLover,http://live.admuspeh.my/8393/index.m3u8?token=4gPHp5ZVYqDAR4oz
 CineMan XXX FHD,http://live.admuspeh.my/8868/index.m3u8?token=4gPHp5ZVYqDAR4oz
 CineMan XXX2 FHD,http://live.admuspeh.my/8869/index.m3u8?token=4gPHp5ZVYqDAR4oz
-乌克兰_28668,#genre#
+乌克兰,#genre#
 Blue Hustler TV,http://ua.online24.pm/play/107/6C79C1AAFA64E87/video.m3u8
 Hustler TVHustler TV,http://ua.online24.pm/play/592/6C79C1AAFA64E87/video.m3u8
 PlayboyPlayboy,http://ua.online24.pm/play/242/6C79C1AAFA64E87/video.m3u8
@@ -1706,7 +1706,7 @@ supertv,http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/276
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 Rough,http://cdn.adultiptv.net/rough.m3u8
 playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-频道2_28668,#genre#
+频道2,#genre#
 japanhdv,http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
 Blue Hustler,http://188.114.73.107:9981/stream/channelid/2006597829?profile=pass
 box,http://206.212.244.71:8080/4wVQA7/625159/159951
@@ -2020,7 +2020,7 @@ PORNBOX TRANS: TRANS EROTICA,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/
  MY PERVY FAMILY,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160020
  MY TINY WISH,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160021
  MYLF,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160022
-频道3_28668,#genre#
+频道3,#genre#
 fhd,http://bccdn.xyz/live/5026071354pw/1576797021/83248.m3u8
 Три Ангела,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6259/manifest.m3u8
 彩虹ehttps://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
@@ -2182,7 +2182,7 @@ VERIFIED AMATEURS: TESSA WINTERS,http://tv14s.xyz:8080/WzD7qQ/424962/160096
 VERIFIED AMATEURS: TINNA ANGEL,http://tv14s.xyz:8080/WzD7qQ/424962/160097
 VERIFIED AMATEURS: YINYLEON,http://tv14s.xyz:8080/WzD7qQ/424962/160098
 
-港台情色_28668,#genre#
+港台情色,#genre#
 东北往事之黑道风云二十年11,https://vip.ffzy-online4.com/20230404/18386_b159ee99/2000k/hls/mixed.m3u8
 东北往事之黑道风云二十年17,https://vip.lz-cdn16.com/20230731/33145_85f5b5e4/2000k/hls/mixed.m3u8
 销魂玉,https://hd.ijycnd.com/play/QdJqQ0ob/index.m3u8
@@ -2565,7 +2565,7 @@ heyzo1031,https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
-欧美影片_28668,#genre#
+欧美影片,#genre#
 60601,http://60106.vod.adultiptv.net/ph5770c2783ffca/play.m3u8
 Losing Kayden
 Beautiful Cocksucker - Veronika Charm,http://12204.vod.adultiptv.net/ph59e4632689f28/play.m3u8
