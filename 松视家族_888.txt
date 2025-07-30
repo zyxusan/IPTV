@@ -1,4 +1,4 @@
-松视家族,#genre#
+松视家族
 松视1台,http://pull.infojin.cyou/live/cc768b34ede29edcbfbee9c6705844c1.flv
 松视2台,http://pullsstx.peiyou.eaydu.com/live/8af68db1c0fafa65ec3a010974ec8c82.m3u8
 松视3台,http://pull.infojin.cyou/live/bb94ea9a566fe9b7c0c86aca11e62e73.flv
