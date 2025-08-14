@@ -11,15 +11,6 @@ E频道,http://live.urren.net:80/live/8b1ff401ccef072bc5b381c8b783671a.flv
 松视3,http://live.urren.net:80/live/3fe3935007ffdad9bc7d0c758ed6d2c6.flv
 松视1,http://live.urren.net:80/live/8ce9dd24715ce83ec702f6886ff8b754.flv
 
-花园
-松视1台,http://pull.infojin.cyou/live/cc768b34ede29edcbfbee9c6705844c1.flv
-松视2台,http://pullsstx.peiyou.eaydu.com/live/8af68db1c0fafa65ec3a010974ec8c82.m3u8
-松视3台,http://pull.infojin.cyou/live/bb94ea9a566fe9b7c0c86aca11e62e73.flv
-彩虹E台,http://pull.infojin.cyou/live/7bd1c41d1585e237e412f39a0848a56a.flv
-彩虹K台,http://pullsstx.peiyou.eaydu.com/live/e753e6822504add79a0fe3ba678f22e9.m3u8
-松视彩虹电影台,http://pullsstx.peiyou.eaydu.com/live/1b6b61ce936df9b477a49db79595ae8d.m3u8
-松视潘多拉紫台,http://pullsstx.peiyou.eaydu.com/live/d18f7e7c1d27e770936a25ae407d41d8.m3u8
-
 🔞午夜频道,#genre#
 Zoom tv,http://185.236.229.62:9981/play/a02a
 INDIEFILM,http://suo.im/aD7Ry
