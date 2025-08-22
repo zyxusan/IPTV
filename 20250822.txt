@@ -1,3 +1,4 @@
+
 💎埋堆港剧💎,#genre#
 埋堆堆港1,http://aiony.top:35455/huya/29465855
 埋堆堆港2,http://aiony.top:35455/huya/29465854
@@ -13,6 +14,7 @@
 埋堆堆港12,http://aiony.top:35455/huya/29465849
 埋堆堆港13,http://aiony.top:35455/huya/29465853
 埋堆堆港14,http://aiony.top:35455/huya/29465848
+
 💎组播电视💎,#genre#
 央1,http://sckonlan.youankj.cn:8888/udp/239.93.0.184:5140
 央2,http://sckonlan.youankj.cn:8888/udp/239.93.1.23:6000
@@ -41,6 +43,7 @@
 重庆,http://sckonlan.youankj.cn:8888/udp/239.93.1.107:5140
 四川,http://sckonlan.youankj.cn:8888/udp/239.93.0.20:1235
 贵州,http://sckonlan.youankj.cn:8888/udp/239.93.0.131:514
+
 💎全国电视💎,#genre#
 CCTV1,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV2,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
@@ -89,6 +92,7 @@ CCTV17,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/
 重庆卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
 青海卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 黑龙江卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
+
 💎全国央视💎,#genre#
 央视1号,http://43.138.196.212/111.php?id=cctv1
 央视2号,http://43.138.196.212/111.php?id=cctv2
@@ -103,6 +107,7 @@ CCTV17,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv17HD/
 央视11号,http://43.138.196.212/111.php?id=cctv11
 央视12号,http://43.138.196.212/111.php?id=cctv12
 央视13号,http://43.138.196.212/111.php?id=cctv13
+
 香港💎AKB,#genre#
 天映經典(1080),http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 明珠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
@@ -129,6 +134,7 @@ TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+
 香港💎频道,#genre#
 Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
@@ -137,121 +143,83 @@ TVBJ1美频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-
-
 有线综合粤高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 有线综合国高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-
-
 无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-
-
 无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-
-
 无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-
-
 美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 VIUTV粤频标,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 RTHK31频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-
 RTHK32频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-
 澳门Mac频高,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视澳门频高,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
-
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-
-
 凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-
-
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-
-
 TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-
-
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 Plus综合频道,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 有线新闻频道,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
 无线新闻频道,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-
 无线翡翠频道,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-
-
 无线明珠频道,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
 有线赛讯频道,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
-
 有线综讯频道,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
 ViuTv_频道粤,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
 ViuTv_频道英,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
-
-
 RTHK-31频道,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
 RTHK-32频道,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
 RTHK-33频道,http://beishan008.asuscomm.com:8892/bysid/33.m3u8
-
 RTHK-34频道,http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-
-
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 Viu剧集台,http://php.jdshipin.com/TVOD/iptv.php?id=viujj
 Now星影台,http://php.jdshipin.com/TVOD/iptv.php?id=xyt
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 美亚电影频粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-
-
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
@@ -260,16 +228,12 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 TVB星河2,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-
-
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-
-
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
@@ -281,22 +245,16 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-
-
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-
-
 耀才财经频道,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经频道,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-
-
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -327,7 +285,6 @@ TVB翡翠剧集,http://iptv.4666888.xyz/iptv.php?id=20099
 8月22号更新,https://pan.jl8.top/view.php/bf8fdaa2e44d1387397039d57c3b2e32.mp4
 野草微点看,https://pan.jl8.top/view.php/bf8fdaa2e44d1387397039d57c3b2e32.mp4
 全套节目,https://pan.jl8.top/view.php/71e5924be9d717c5d0b09cc9243a3fcb.mp4
-💎公开曝光💎,#genre#
 涉嫌点看,https://pan.jl8.top/view.php/e4f0b32b189cb12e76bdf26e40aad064.mp4
 翻车点看,https://pan.jl8.top/view.php/e4f0b32b189cb12e76bdf26e40aad064.mp4
 更新等待曝光,https://pan.jl8.top/v
@@ -384,8 +341,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 我爱我家,http://120.24.172.11:50001/yy/1382851580
 超炫科幻大片,http://120.24.172.11:50001/yy/1382736840
 宫心计-港剧-古装,http://120.24.172.11:50001/yy/1354933540
-          ,http://120.24.172.11:50001/yy/1382851578
-二号交通站,http://120.24.172.11:50001/yy/1354930965
+站,http://120.24.172.11:50001/yy/1354930965
 原始人大挑战,http://120.24.172.11:50001/yy/1382736884
 黄大妮-电视剧,http://120.24.172.11:50001/yy/1354930904
 欢乐集结号,http://120.24.172.11:50001/yy/1354931582
@@ -652,9 +608,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 至尊无上,https://vip.ffzy-play.com/20221015/1086_9576a463/index.m3u8
 至尊无上II之永霸天下,https://vip.ffzy-play.com/20221015/1090_e30609f3/index.m3u8
 兄弟之生死同盟,https://vip.ffzy-play.com/20221015/897_d3a4e80f/index.m3u8
-
-
-
 新上海滩,https://vip.ffzy-play.com/20221015/880_937cdc1a/index.m3u8
 精装追女仔之2,https://vip.ffzy-play6.com/20221116/7250_93049e15/index.m3u8
 英雄本色1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
@@ -696,9 +649,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
 疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
 你好北京,https://vip.ffzy-play7.com/20230416/22452_5318e52a/index.m3u8
-
-
-
 第三个人,https://vip.ffzy-play7.com/20230407/21350_043ad4f7/index.m3u8
 我和我的父辈,https://vip.ffzy-play7.com/20230307/17542_0c58cae5/index.m3u8
 大唐玄奘,https://vip.ffzy-play7.com/20230306/17314_0230edb6/index.m3u8
@@ -747,9 +697,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 鬼打鬼,https://vip.ffzy-play7.com/20221115/4476_05997c13/index.m3u8
 鬼打鬼之黄金道士,https://vip.ffzy-play6.com/20221112/6296_32b14901/index.m3u8
 富贵列车,https://vip.ffzy-play7.com/20221206/8232_7462fce8/index.m3u8
-
-
-
 驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/index.m3u8
 驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/index.m3u8
 钟馗嫁妹,https://vip.ffzy-play7.com/20221129/7746_6b5ae2e8/index.m3u8
@@ -777,9 +724,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-
-
-
 无间道1,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
 无间道3终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
 魔戒二部曲双城奇谋,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
@@ -823,9 +767,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 倚天屠龙记之魔教教主,https://cdn1.yzzy-tv-cdn.com/20220406/COULYl8d/index.m3u8
 倚天屠龙记之魔教教主,http://jsmov2.a.yximgs.com/bs3/video-hls/5218264700326446854_hlsb.m3u8
 杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
-
-
-
 太极张三丰,http://jsmov2.a.yximgs.com/bs3/video-hls/5236841968140880426_hlsb.m3u8#https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
 霍元甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5205598302789348106_hlsb.m3u8
 投名状,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
@@ -871,9 +812,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 警察故事2013,https://vip.ffzy-play6.com/20221021/494_7e9bef86/index.m3u8
 新警察故事,https://vip.ffzy-play6.com/20221017/15_7bd9a94d/index.m3u8
 超级计划,https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
-
-
-
 A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
 A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 飞鹰计划,https://vip.ffzy-play6.com/20221112/6252_a77ddc97/index.m3u8
@@ -1168,9 +1106,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 超级神探-潘斌龙崔志佳,https://vd3.bdstatic.com/mda-phwhkedmdhwciy9y/sc/cae_h264/1693523709906399063/mda-phwhkedmdhwciy9y.mp4
 车站奇遇-蔡明潘长江,https://vd3.bdstatic.com/mda-qawkdqae4p8cf3ch/sc/cae_h264/1706796688379722525/mda-qawkdqae4p8cf3ch.mp4
 吃面-宋小宝,https://vd3.bdstatic.com/mda-pjjb2sz1k5mt9mdt/sc/cae_h264/1697847388902763799/mda-pjjb2sz1k5mt9mdt.mp4
-
-
-
 吃面条-陈佩斯朱时茂,https://vdse.bdstatic.com//19622bd68fc384bfbc19ce18cc1690b5.mp4
 吃面条-乔杉修睿,https://vd3.bdstatic.com/mda-qe61ugedwph6s2a3/hd/cae_h264/1715064353019743134/mda-qe61ugedwph6s2a3.mp4
 赤壁-艾伦魏翔柳岩,https://vd3.bdstatic.com/mda-pjcjn21d0hmzifu7/sc/cae_h264/1697247683328112619/mda-pjcjn21d0hmzifu7.mp4
@@ -1202,8 +1137,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 扶不扶-沈腾,https://vd3.bdstatic.com/mda-jaqyuyv3cx5wag5t/sc/mda-jaqyuyv3cx5wag5t.mp4
 父与子-贾冰,https://vd3.bdstatic.com/mda-qavd8ukdy38gh0ti/hd/cae_h264/1706607484539937796/mda-qavd8ukdy38gh0ti.mp4
 干杯吧爸爸-潘斌龙韩雪,https://vdse.bdstatic.com//4c9888933a9b3a0b92764a363be81356.mp4
-
-
 哥俩好-常远宋阳,https://vdse.bdstatic.com//c71d262097bdcaf64ba452eb14cfbb9b.mp4
 跟着媳妇当保姆-冯巩朱军,http://uptt.gcwduoduo.com/v/181110/0650ed5311b8750b7aa48e8c2a441b7c.mp4
 公交车上-刘小光田娃,https://vd3.bdstatic.com/mda-nbqaqte613k0rr46/576p/cae_h264/1652569874030248714/mda-nbqaqte613k0rr46.mp4
@@ -1220,9 +1153,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 华府招亲-宋晓峰程野,https://vd3.bdstatic.com/mda-qaq8rpne4zdj1y6i/hd/cae_h264/1706241051829414854/mda-qaq8rpne4zdj1y6i.mp4
 怀孕-乔杉修睿,https://vdse.bdstatic.com//86cf78ae4cfadc9dac585a70b2587808.mp4
 黄师傅-沙溢,https://vd3.bdstatic.com/mda-pj8c6tjud36zznfh/sc/cae_h264/1696898736769689180/mda-pj8c6tjud36zznfh.mp4
-
-
-
 回家-宋小宝,https://vd3.bdstatic.com//mda-pjpave8ceiq2b12x/360p/h264/1698133283249504866/mda-pjpave8ceiq2b12x.mp4
 魂斗罗-陈赫,https://vd3.bdstatic.com/mda-pf0d584226si28rt/sc/cae_h264/1685645342091071520/mda-pf0d584226si28rt.mp4
 火炬手-赵本山,https://vd3.bdstatic.com/mda-qbtjetv9z1v342v5/hd/cae_h264/1709260078003965471/mda-qbtjetv9z1v342v5.mp4
@@ -1249,8 +1179,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 九儿-贾玲陈赫许君聪,https://vd3.bdstatic.com/mda-paf9fc57gug7151b/576p/h264/1673851484451337705/mda-paf9fc57gug7151b.mp4
 旧曲新歌-冯巩郭冬临,https://vd3.bdstatic.com/mda-qe91ueh7g3xf4iwj/hd/cae_h264/1715334206233421824/mda-qe91ueh7g3xf4iwj.mp4
 就差钱-赵本山,https://vd3.bdstatic.com/mda-pe88dd94mqtwvswc/hd/cae_h264/1683660151332694377/mda-pe88dd94mqtwvswc.mp4
-
-
 捐助-赵本山,https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4
 决战元宵夜-宋晓峰,https://vd3.bdstatic.com/mda-pijei4tdebp7ddd2/sc/cae_h264/1696417703069907523/mda-pijei4tdebp7ddd2.mp4
 看病-宋小宝,https://vdse.bdstatic.com//e15d4c14eb11f1e7dd8bf55fdae721be.mp4
@@ -1270,8 +1198,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 两个弄潮儿-牛群冯巩,https://vd3.bdstatic.com/mda-mkqdhm17rs7198m6/hd/cae_h264/1637859905115117938/mda-mkqdhm17rs7198m6.mp4
 两肋插刀-张春丰王博李欢欢,https://vd3.bdstatic.com/mda-qaf3w9218zc1ynev/sc/cae_h264/1705376008633159479/mda-qaf3w9218zc1ynev.mp4
 柳岩大鹏,https://vd3.bdstatic.com/mda-pime044cshg2mn8c/sc/cae_h264/1695844876307157168/mda-pime044cshg2mn8c.mp4
-
-
 路通了-孙涛,https://vd3.bdstatic.com/mda-qb140bi0ub0nrbui/hd/cae_h264/1707098740081698793/mda-qb140bi0ub0nrbui.mp4
 吕先生与驴-艾伦,https://vd3.bdstatic.com/mda-pi69113kgiap2n2q/sc/cae_h264/1694134550656732742/mda-pi69113kgiap2n2q.mp4
 落跑姐妹之官服-贾玲,https://vdse.bdstatic.com//31481705b0074721aaead60cbcdca2c3.mp4
@@ -1304,8 +1230,6 @@ Alin精选16首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v03
 拼助理-乔杉修睿,https://vd3.bdstatic.com/mda-piq301jzbac9xan9/sc/cae_h264/1695970836837375677/mda-piq301jzbac9xan9.mp4
 平民英雄-乔杉修睿,https://vd3.bdstatic.com/mda-pcufqqzpc68nbxwk/576p/h264/1680088455269361121/mda-pcufqqzpc68nbxwk.mp4
 钱因后果-宋晓峰文松,https://vd3.bdstatic.com/mda-phwegde927k5egme/sc/cae_h264/1693521997540301278/mda-phwegde927k5egme.mp4
-
-
 强迫症-开心麻花,https://vd3.bdstatic.com/mda-pigkr74bppx2kt5j/sc/cae_h264/1695920310384755203/mda-pigkr74bppx2kt5j.mp4
 巧立名目-牛群冯巩,https://vdse.bdstatic.com//123b1e01f5128d0e71b4f392ec1a971c.mp4
 巧审驸马爷-宋小宝,https://vd3.bdstatic.com/mda-pjckm4x4piakw250/sc/cae_h264/1697251590447128410/mda-pjckm4x4piakw250.mp4
