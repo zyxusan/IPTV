@@ -1,583 +1,583 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1-HD
-http://wouu.net:9977/udp/239.93.0.58:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.58:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1-HD
-http://wouu.net:9977/udp/239.93.0.184:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.184:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1-HD
-http://wouu.net:9977/udp/239.93.42.36:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.36:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2-HD
-http://wouu.net:9977/udp/239.93.0.59:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.59:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2-HD
-http://wouu.net:9977/udp/239.93.1.23:6000
+http://sckonlan.youankj.cn:8888/udp/239.93.1.23:6000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3-HD(无水印)
-http://wouu.net:9977/udp/239.93.1.158:4120
+http://sckonlan.youankj.cn:8888/udp/239.93.1.158:4120
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3-HD
-http://wouu.net:9977/udp/239.93.0.109:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.109:5140
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3-HD
-http://wouu.net:9977/udp/239.93.1.11:2223
+http://sckonlan.youankj.cn:8888/udp/239.93.1.11:2223
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4-HD
-http://wouu.net:9977/udp/239.93.0.60:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5-HD
-http://wouu.net:9977/udp/239.93.1.12:2224
+http://sckonlan.youankj.cn:8888/udp/239.93.1.12:2224
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5-HD
-http://wouu.net:9977/udp/239.93.1.61:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.61:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5-HD
-http://wouu.net:9977/udp/239.93.42.37:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.37:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6-HD
-http://wouu.net:9977/udp/239.93.1.13:2226
+http://sckonlan.youankj.cn:8888/udp/239.93.1.13:2226
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6-HD
-http://wouu.net:9977/udp/239.93.1.60:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.60:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6-HD
-http://wouu.net:9977/udp/239.93.42.38:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.38:5140
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7-HD
-http://wouu.net:9977/udp/239.93.1.67:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.67:5140
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7-HD
-http://wouu.net:9977/udp/239.93.0.61:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.61:5140
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8-HD
-http://wouu.net:9977/udp/239.93.1.14:2225
+http://sckonlan.youankj.cn:8888/udp/239.93.1.14:2225
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8-HD
-http://wouu.net:9977/udp/239.93.1.56:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.56:5140
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8-HD
-http://wouu.net:9977/udp/239.93.1.162:2225
+http://sckonlan.youankj.cn:8888/udp/239.93.1.162:2225
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8-HD
-http://wouu.net:9977/udp/239.93.42.39:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.39:5140
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9-HD
-http://wouu.net:9977/udp/239.93.0.2:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.2:5140
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9-HD
-http://wouu.net:9977/udp/239.93.1.24:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.24:5140
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10-HD
-http://wouu.net:9977/udp/239.93.1.28:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.28:5140
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10-HD
-http://wouu.net:9977/udp/239.93.0.63:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.63:5140
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11-HD
-http://wouu.net:9977/udp/239.93.0.102:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.102:5140
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12-HD
-http://wouu.net:9977/udp/239.93.0.65:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.65:5140
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12-HD
-http://wouu.net:9977/udp/239.93.1.30:8124
+http://sckonlan.youankj.cn:8888/udp/239.93.1.30:8124
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13-HD
-http://wouu.net:9977/udp/239.93.0.66:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.66:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13-HD
-http://wouu.net:9977/udp/239.93.0.99:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.99:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13-HD
-http://wouu.net:9977/udp/239.93.1.143:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.143:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13-HD
-http://wouu.net:9977/udp/239.93.1.112:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.112:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13-HD
-http://wouu.net:9977/udp/239.93.1.251:8224
+http://sckonlan.youankj.cn:8888/udp/239.93.1.251:8224
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14-HD
-http://wouu.net:9977/udp/239.93.42.40:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.40:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14-HD
-http://wouu.net:9977/udp/239.93.1.29:6000
+http://sckonlan.youankj.cn:8888/udp/239.93.1.29:6000
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15-HD
-http://wouu.net:9977/udp/239.93.0.103:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16-UHD
-http://wouu.net:9977/udp/239.93.42.54:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.54:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17-HD
-http://wouu.net:9977/udp/239.93.0.92:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-05+HD
-http://wouu.net:9977/udp/239.93.1.173:8004
+http://sckonlan.youankj.cn:8888/udp/239.93.1.173:8004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-05+HD
-http://wouu.net:9977/udp/239.93.1.36:8004
+http://sckonlan.youankj.cn:8888/udp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K-UHD
-http://wouu.net:9977/udp/239.93.42.41:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.41:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K-UHD
-http://wouu.net:9977/udp/239.93.42.42:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-英语HD
-http://wouu.net:9977/udp/239.93.0.104:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-西语-HD
-http://wouu.net:9977/udp/239.93.42.49:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.49:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-法语-HD
-http://wouu.net:9977/udp/239.93.42.50:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.50:5140
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4-亚洲台-HD
-http://wouu.net:9977/udp/239.93.1.105:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHC-影迷电影-HD
-http://wouu.net:9977/udp/239.93.42.5:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC-家庭影院-HD
-http://wouu.net:9977/udp/239.93.42.6:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC-动作电影-HD
-http://wouu.net:9977/udp/239.93.42.7:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV-央视台球-HD
-http://wouu.net:9977/udp/239.93.0.218:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.218:5140
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",CCTV-风云音乐-HD
-http://wouu.net:9977/udp/239.93.0.224:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.224:5140
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",CCTV-女性时尚-HD
-http://wouu.net:9977/udp/239.93.42.62:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",CCTV-风云足球-HD
-http://wouu.net:9977/udp/239.93.0.235:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.235:5140
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV-风云剧场-HD
-http://wouu.net:9977/udp/239.93.1.156:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.156:5140
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",CCTV-世界地理-HD
-http://wouu.net:9977/udp/239.93.1.157:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.157:5140
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",CCTV-高尔夫网球-HD
-http://wouu.net:9977/udp/239.93.1.54:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.54:5140
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV-第一剧场-HD
-http://wouu.net:9977/udp/239.93.1.197:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.197:5140
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",CCTV-怀旧剧场-HD
-http://wouu.net:9977/udp/239.93.1.198:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",CCTV-兵器科技-HD
-http://wouu.net:9977/udp/239.93.1.235:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.235:5140
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="地方",CCTV-央视精品-HD
-http://wouu.net:9977/udp/239.93.42.47:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",羽毛球-HD
-http://wouu.net:9977/udp/239.93.0.237:1284
+http://sckonlan.youankj.cn:8888/udp/239.93.0.237:1284
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台-HD
-http://wouu.net:9977/udp/239.93.1.9:2192
+http://sckonlan.youankj.cn:8888/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台-HD
-http://wouu.net:9977/udp/239.93.0.162:2192
+http://sckonlan.youankj.cn:8888/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台-HD
-http://wouu.net:9977/udp/239.93.1.4:2191
+http://sckonlan.youankj.cn:8888/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台-HD
-http://wouu.net:9977/udp/239.93.0.118:2191
+http://sckonlan.youankj.cn:8888/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空卫视[中国大陆]
-http://wouu.net:9977/udp/239.93.0.156:2193
+http://sckonlan.youankj.cn:8888/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空卫视[中国大陆]
-http://wouu.net:9977/udp/239.93.1.10:2193
+http://sckonlan.youankj.cn:8888/udp/239.93.1.10:2193
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHANNEL[V]卫视音乐台[中国频道]
-http://wouu.net:9977/udp/239.93.1.7:2194
+http://sckonlan.youankj.cn:8888/udp/239.93.1.7:2194
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CHANNEL[V]卫视音乐台[中国频道]
-http://wouu.net:9977/udp/239.93.0.157:2194
+http://sckonlan.youankj.cn:8888/udp/239.93.0.157:2194
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱喜剧-HD
-http://wouu.net:9977/udp/239.93.42.9:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.9:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱科幻-HD
-http://wouu.net:9977/udp/239.93.42.10:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.10:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱院线-HD
-http://wouu.net:9977/udp/239.93.42.11:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.11:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱悬疑-HD
-http://wouu.net:9977/udp/239.93.42.12:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.12:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱经典-HD
-http://wouu.net:9977/udp/239.93.42.13:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.13:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱谍战-HD
-http://wouu.net:9977/udp/239.93.42.14:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱青春-HD
-http://wouu.net:9977/udp/239.93.42.16:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.16:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱幼教-HD
-http://wouu.net:9977/udp/239.93.42.17:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.17:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱玩具-HD
-http://wouu.net:9977/udp/239.93.42.18:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.18:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱电竞-HD
-http://wouu.net:9977/udp/239.93.42.19:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.19:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱赛车-HD
-http://wouu.net:9977/udp/239.93.42.20:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.20:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱怀旧-HD
-http://wouu.net:9977/udp/239.93.42.21:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.21:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱奇谈-HD
-http://wouu.net:9977/udp/239.93.42.22:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.22:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱动漫-HD
-http://wouu.net:9977/udp/239.93.42.23:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.23:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IHOT爱喜剧-HD
-http://wouu.net:9977/udp/239.93.1.59:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.59:5140
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索记录-HD
-http://wouu.net:9977/udp/239.93.42.24:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-01-HD
-http://wouu.net:9977/udp/239.93.0.16:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-02-HD
-http://wouu.net:9977/udp/239.93.0.17:1239
+http://sckonlan.youankj.cn:8888/udp/239.93.0.17:1239
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-03-HD
-http://wouu.net:9977/udp/239.93.0.18:1238
+http://sckonlan.youankj.cn:8888/udp/239.93.0.18:1238
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-04-HD
-http://wouu.net:9977/udp/239.93.0.19:1250
+http://sckonlan.youankj.cn:8888/udp/239.93.0.19:1250
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-05-HD
-http://wouu.net:9977/udp/239.93.1.231:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-06-HD
-http://wouu.net:9977/udp/239.93.0.21:1251
+http://sckonlan.youankj.cn:8888/udp/239.93.0.21:1251
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-08-HD
-http://wouu.net:9977/udp/239.93.0.22:1252
+http://sckonlan.youankj.cn:8888/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-蓉城先锋-HD
-http://wouu.net:9977/udp/239.93.0.91:2101
+http://sckonlan.youankj.cn:8888/udp/239.93.0.91:2101
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视-HD
-http://wouu.net:9977/udp/239.93.0.169:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.169:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视-HD
-http://wouu.net:9977/udp/239.93.0.20:1235
+http://sckonlan.youankj.cn:8888/udp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济-HD
-http://wouu.net:9977/udp/239.93.1.101:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.101:5140
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化-HD
-http://wouu.net:9977/udp/239.93.1.102:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.102:5140
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻-HD
-http://wouu.net:9977/udp/239.93.0.47:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",四川妇儿-HD
-http://wouu.net:9977/udp/239.93.0.219:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视-HD
-http://wouu.net:9977/udp/239.93.0.166:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",峨眉电影-HD
-http://wouu.net:9977/udp/239.93.0.252:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",四川乡村-HD
-http://wouu.net:9977/udp/239.93.0.52:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教-HD
-http://wouu.net:9977/udp/239.93.42.44:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.44:5140
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视-HD
-http://wouu.net:9977/udp/239.93.0.41:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",4K乐享超清-UHD
-http://wouu.net:9977/udp/239.93.0.43:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K-UHD
-http://wouu.net:9977/udp/239.93.0.97:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场-UHD
-http://wouu.net:9977/udp/239.93.0.145:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.145:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",绚影4K-UHD
-http://wouu.net:9977/udp/239.93.42.33:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV百事通4K-UHD
-http://wouu.net:9977/udp/239.93.42.75:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.75:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视-HD
-http://wouu.net:9977/udp/239.93.0.72:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.72:5140
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视-HD
-http://wouu.net:9977/udp/239.93.1.113:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.113:5140
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视-HD
-http://wouu.net:9977/udp/239.93.1.106:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.106:5140
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视-HD
-http://wouu.net:9977/udp/239.93.1.107:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.107:5140
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视-HD
-http://wouu.net:9977/udp/239.93.1.108:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.108:5140
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视-HD
-http://wouu.net:9977/udp/239.93.0.250:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.250:5140
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://wouu.net:9977/udp/239.93.0.80:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.80:5140
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://wouu.net:9977/udp/239.93.0.90:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.90:5140
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视-HD
-http://wouu.net:9977/udp/239.93.0.81:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视-HD
-http://wouu.net:9977/udp/239.93.0.42:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.42:5140
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
-http://wouu.net:9977/udp/239.93.0.82:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.82:5140
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
-http://wouu.net:9977/udp/239.93.0.194:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.194:5140
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://wouu.net:9977/udp/239.93.0.83:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.83:5140
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
-http://wouu.net:9977/udp/239.93.0.85:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.85:5140
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
-http://wouu.net:9977/udp/239.93.0.192:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.192:5140
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://wouu.net:9977/udp/239.93.0.87:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.87:5140
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://wouu.net:9977/udp/239.93.42.100:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.100:5140
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://wouu.net:9977/udp/239.93.0.8:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.8:5140
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视-HD
-http://wouu.net:9977/udp/239.93.0.88:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.88:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视-HD
-http://wouu.net:9977/udp/239.93.0.89:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.89:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视-HD
-http://wouu.net:9977/udp/239.93.0.123:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.123:5140
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视-HD
-http://wouu.net:9977/udp/239.93.0.124:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.124:5140
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视-HD
-http://wouu.net:9977/udp/239.93.0.143:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.143:5140
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://wouu.net:9977/udp/239.93.0.125:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.125:5140
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://wouu.net:9977/udp/239.93.0.176:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.176:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陕西农林卫视
-http://wouu.net:9977/udp/239.93.0.100:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.100:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视-HD
-http://wouu.net:9977/udp/239.93.1.174:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视-HD
-http://wouu.net:9977/udp/239.93.0.131:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视-HD
-http://wouu.net:9977/udp/239.93.0.132:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.132:5140
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
-http://wouu.net:9977/udp/239.93.0.127:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.127:5140
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
-http://wouu.net:9977/udp/239.93.0.6:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.6:5140
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视-HD
-http://wouu.net:9977/udp/239.93.0.134:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.134:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视-HD
-http://wouu.net:9977/udp/239.93.0.180:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.180:5140
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视-HD
-http://wouu.net:9977/udp/239.93.0.181:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.181:5140
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视-HD
-http://wouu.net:9977/udp/239.93.0.182:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.182:5140
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视-HD
-http://wouu.net:9977/udp/239.93.0.183:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.183:5140
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视-HD
-http://wouu.net:9977/udp/239.93.0.167:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视-HD
-http://wouu.net:9977/udp/239.93.0.168:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.168:5140
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://wouu.net:9977/udp/239.93.0.175:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.175:5140
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://wouu.net:9977/udp/239.93.0.247:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.247:5140
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://wouu.net:9977/udp/239.93.0.74:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.74:5140
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视-HD
-http://wouu.net:9977/udp/239.93.0.248:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.248:5140
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
-http://wouu.net:9977/udp/239.93.0.249:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.249:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",安多卫视
-http://wouu.net:9977/udp/239.93.0.234:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.234:5140
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
-http://wouu.net:9977/udp/239.93.42.57:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.57:5140
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
-http://wouu.net:9977/udp/239.93.42.58:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.58:5140
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视-HD
-http://wouu.net:9977/udp/239.93.42.45:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.45:5140
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视-HD
-http://wouu.net:9977/udp/239.93.42.46:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
-http://wouu.net:9977/udp/239.93.42.43:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.43:5140
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
-http://wouu.net:9977/udp/239.93.0.55:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.55:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热播剧场
-http://wouu.net:9977/udp/239.93.0.56:9020
+http://sckonlan.youankj.cn:8888/udp/239.93.0.56:9020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典电影
-http://wouu.net:9977/udp/239.93.0.57:9024
+http://sckonlan.youankj.cn:8888/udp/239.93.0.57:9024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫体娱-HD
-http://wouu.net:9977/udp/239.93.0.94:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.94:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
-http://wouu.net:9977/udp/239.93.0.106:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.106:5140
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://wouu.net:9977/udp/239.93.0.108:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.108:5140
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://wouu.net:9977/udp/239.93.0.5:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.5:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-01-HD
-http://wouu.net:9977/udp/239.93.1.111:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-02
-http://wouu.net:9977/udp/239.93.0.113:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.113:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-04-HD
-http://wouu.net:9977/udp/239.93.0.133:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.133:5140
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV-早期教育-HD
-http://wouu.net:9977/udp/239.93.0.117:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.117:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",导视
-http://wouu.net:9977/udp/239.93.0.129:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.129:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信导视-HD
-http://wouu.net:9977/udp/239.93.0.110:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.110:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电视导视1-HD
-http://wouu.net:9977/udp/239.93.1.5:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.5:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信导视2-HD
-http://wouu.net:9977/udp/239.93.0.213:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.213:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信导视04-HD
-http://wouu.net:9977/udp/239.93.1.37:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.37:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩导视05-HD
-http://wouu.net:9977/udp/239.93.1.39:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.39:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信导视06-HD
-http://wouu.net:9977/udp/239.93.1.117:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.117:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",I成都-HD
-http://wouu.net:9977/udp/239.93.1.104:1234
+http://sckonlan.youankj.cn:8888/udp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",I乐山-HD
-http://wouu.net:9977/udp/239.93.1.55:8302
+http://sckonlan.youankj.cn:8888/udp/239.93.1.55:8302
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",收视指南
-http://wouu.net:9977/udp/239.93.0.195:8012
+http://sckonlan.youankj.cn:8888/udp/239.93.0.195:8012
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",晴彩四川
-http://wouu.net:9977/udp/239.93.0.126:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.126:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫影院专区-HD
-http://wouu.net:9977/udp/239.93.0.214:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.214:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫爱生活-HD
-http://wouu.net:9977/udp/239.93.0.211:9148
+http://sckonlan.youankj.cn:8888/udp/239.93.0.211:9148
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",墨宝专区
-http://wouu.net:9977/udp/239.93.0.215:9132
+http://sckonlan.youankj.cn:8888/udp/239.93.0.215:9132
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热播剧场专区
-http://wouu.net:9977/udp/239.93.1.47:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.47:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",戏典专区
-http://wouu.net:9977/udp/239.93.0.217:9208
+http://sckonlan.youankj.cn:8888/udp/239.93.0.217:9208
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力时尚专区
-http://wouu.net:9977/udp/239.93.0.190:9012
+http://sckonlan.youankj.cn:8888/udp/239.93.0.190:9012
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",少儿动画专区
-http://wouu.net:9977/udp/239.93.0.193:9000
+http://sckonlan.youankj.cn:8888/udp/239.93.0.193:9000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球专区
-http://wouu.net:9977/udp/239.93.0.197:9040
+http://sckonlan.youankj.cn:8888/udp/239.93.0.197:9040
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",体育专区
-http://wouu.net:9977/udp/239.93.1.17:9008
+http://sckonlan.youankj.cn:8888/udp/239.93.1.17:9008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",音乐现场专区
-http://wouu.net:9977/udp/239.93.0.198:9044
+http://sckonlan.youankj.cn:8888/udp/239.93.0.198:9044
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",解密专区
-http://wouu.net:9977/udp/239.93.0.199:9048
+http://sckonlan.youankj.cn:8888/udp/239.93.0.199:9048
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",地理专区
-http://wouu.net:9977/udp/239.93.0.200:9052
+http://sckonlan.youankj.cn:8888/udp/239.93.0.200:9052
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",红色影院专区
-http://wouu.net:9977/udp/239.93.0.202:9068
+http://sckonlan.youankj.cn:8888/udp/239.93.0.202:9068
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典剧场专区
-http://wouu.net:9977/udp/239.93.0.203:9072
+http://sckonlan.youankj.cn:8888/udp/239.93.0.203:9072
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军事专区
-http://wouu.net:9977/udp/239.93.0.204:9076
+http://sckonlan.youankj.cn:8888/udp/239.93.0.204:9076
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱生活专区
-http://wouu.net:9977/udp/239.93.0.206:8028
+http://sckonlan.youankj.cn:8888/udp/239.93.0.206:8028
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电视剧专区-HD
-http://wouu.net:9977/udp/239.93.1.176:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.176:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电视剧专区-HD
-http://wouu.net:9977/udp/239.93.1.178:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.178:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电视剧专区-HD
-http://wouu.net:9977/udp/239.93.1.179:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.179:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫卡通-HD
-http://wouu.net:9977/udp/239.93.1.172:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.172:5140
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",北京卡酷少儿
-http://wouu.net:9977/udp/239.93.0.208:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.208:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南金鹰记实-HD
-http://wouu.net:9977/udp/239.93.0.130:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",上海哈哈炫动
-http://wouu.net:9977/udp/239.93.0.173:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.173:5140
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",广东嘉佳卡通
-http://wouu.net:9977/udp/239.93.0.246:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.246:5140
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",江苏优漫卡通
-http://wouu.net:9977/udp/239.93.0.251:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.251:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画-HD
-http://wouu.net:9977/udp/239.93.1.43:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.43:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画-HD
-http://wouu.net:9977/udp/239.93.1.65:8138
+http://sckonlan.youankj.cn:8888/udp/239.93.1.65:8138
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画-HD
-http://wouu.net:9977/udp/239.93.0.122:2208
+http://sckonlan.youankj.cn:8888/udp/239.93.0.122:2208
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画-HD
-http://wouu.net:9977/udp/239.93.42.60:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",少儿天地-HD
-http://wouu.net:9977/udp/239.93.1.115:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.115:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓-HD
-http://wouu.net:9977/udp/239.93.1.151:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海记实人文
-http://wouu.net:9977/udp/239.93.1.154:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.154:5140
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱四川-HD
-http://wouu.net:9977/udp/239.93.1.110:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.110:5140
 #EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="地方",电竞天堂-HD
-http://wouu.net:9977/udp/239.93.1.135:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海记实人文-HD
-http://wouu.net:9977/udp/239.93.1.137:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="地方",重庆汽摩-HD
-http://wouu.net:9977/udp/239.93.0.62:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.62:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",湖南茶频道-HD
-http://wouu.net:9977/udp/239.93.0.114:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.114:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",江苏财富天下
-http://wouu.net:9977/udp/239.93.0.116:9136
+http://sckonlan.youankj.cn:8888/udp/239.93.0.116:9136
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱体育
-http://wouu.net:9977/udp/239.93.0.135:9008
+http://sckonlan.youankj.cn:8888/udp/239.93.0.135:9008
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
-http://wouu.net:9977/udp/239.93.0.136:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.136:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热门综艺-HD
-http://wouu.net:9977/udp/239.93.0.151:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.151:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京记实科教-HD
-http://wouu.net:9977/udp/239.93.0.141:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.141:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",北京记实科教-HD
-http://wouu.net:9977/udp/239.93.0.152:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.152:5140
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通-四川-HD
-http://wouu.net:9977/udp/239.93.0.142:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.142:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经-HD
-http://wouu.net:9977/udp/239.93.1.165:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.165:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-欧洲杯-HD
-http://wouu.net:9977/udp/239.93.1.187:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.187:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中录动漫-UHD
-http://wouu.net:9977/udp/239.93.1.188:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.188:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫少儿-HD
-http://wouu.net:9977/udp/239.93.1.189:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.189:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫爱生活-HD
-http://wouu.net:9977/udp/239.93.1.190:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.190:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亲子趣学-UHD
-http://wouu.net:9977/udp/239.93.1.191:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.191:5140
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",河南梨园频道-HD
-http://wouu.net:9977/udp/239.93.1.195:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.195:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
-http://wouu.net:9977/udp/239.93.1.196:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.196:5140
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
-http://wouu.net:9977/udp/239.93.42.1:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.1:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",麻辣体育
-http://wouu.net:9977/udp/239.93.42.2:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.2:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来钓鱼吧-HD
-http://wouu.net:9977/udp/239.93.42.8:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.8:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚-HD
-http://wouu.net:9977/udp/239.93.42.29:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场-HD
-http://wouu.net:9977/udp/239.93.42.30:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.30:5140
 #EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg" group-title="地方",环球旅游
-http://wouu.net:9977/udp/239.93.42.31:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.31:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱宠宠物-HD
-http://wouu.net:9977/udp/239.93.42.32:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.32:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",少儿天地-HD
-http://wouu.net:9977/udp/239.93.42.34:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="6627" tvg-name="百姓健康" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" group-title="地方",百姓健康
-http://wouu.net:9977/udp/239.93.42.35:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.35:5140
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方",天元围棋-HD
-http://wouu.net:9977/udp/239.93.42.55:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方",湖南先锋乒羽
-http://wouu.net:9977/udp/239.93.42.56:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.56:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国天气
-http://wouu.net:9977/udp/239.93.42.66:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.66:5140
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道
-http://wouu.net:9977/udp/239.93.42.67:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.67:5140
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱旅游-HD
-http://wouu.net:9977/udp/239.93.42.70:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.70:5140
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱生活-HD
-http://wouu.net:9977/udp/239.93.42.71:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.71:5140
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱时尚-HD
-http://wouu.net:9977/udp/239.93.42.72:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.72:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",四川宣传-HD
-http://wouu.net:9977/udp/239.93.42.74:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV华语影院-HD
-http://wouu.net:9977/udp/239.93.42.86:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.86:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV华语影院-HD
-http://wouu.net:9977/udp/239.93.0.138:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.138:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV星光院线-HD
-http://wouu.net:9977/udp/239.93.42.87:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.87:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV星光院线-HD
-http://wouu.net:9977/udp/239.93.0.139:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.139:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV热门剧场-HD
-http://wouu.net:9977/udp/239.93.42.88:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.88:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV热门剧场-HD
-http://wouu.net:9977/udp/239.93.0.140:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.140:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV全球大片-HD
-http://wouu.net:9977/udp/239.93.0.105:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.105:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV全球大片-HD
-http://wouu.net:9977/udp/239.93.42.90:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.90:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV谍战剧场-HD
-http://wouu.net:9977/udp/239.93.42.91:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.91:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV碟战剧场-HD
-http://wouu.net:9977/udp/239.93.0.95:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.95:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV戏曲精选-HD
-http://wouu.net:9977/udp/239.93.0.144:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.144:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV青春动漫-HD
-http://wouu.net:9977/udp/239.93.0.146:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.146:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV宝宝动画-HD
-http://wouu.net:9977/udp/239.93.0.147:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.147:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BESTV宝宝动画-HD
-http://wouu.net:9977/udp/239.93.42.89:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.89:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热门综艺-HD
-http://wouu.net:9977/udp/239.93.1.253:8016
+http://sckonlan.youankj.cn:8888/udp/239.93.1.253:8016
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精彩影视-HD
-http://wouu.net:9977/udp/239.93.42.92:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.92:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场-HD
-http://wouu.net:9977/udp/239.93.42.93:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.93:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游-HD
-http://wouu.net:9977/udp/239.93.42.94:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂-HD
-http://wouu.net:9977/udp/239.93.42.95:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.95:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地-HD
-http://wouu.net:9977/udp/239.93.42.96:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.96:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力足球-HD
-http://wouu.net:9977/udp/239.93.42.97:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.97:5140
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育-HD
-http://wouu.net:9977/udp/239.93.42.98:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.98:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知无图像??
-http://wouu.net:9977/udp/239.93.42.73:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.73:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空购物-HD
-http://wouu.net:9977/udp/239.93.1.144:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.144:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空精选-HD
-http://wouu.net:9977/udp/239.93.1.171:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.171:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-HD
-http://wouu.net:9977/udp/239.93.42.64:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.64:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-HD
-http://wouu.net:9977/udp/239.93.42.65:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.65:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-HD
-http://wouu.net:9977/udp/239.93.1.245:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.245:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-HD
-http://wouu.net:9977/udp/239.93.1.246:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.246:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-HD
-http://wouu.net:9977/udp/239.93.42.69:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.69:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-HD
-http://wouu.net:9977/udp/239.93.42.59:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.42.59:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-黄河-HD
-http://wouu.net:9977/udp/239.93.0.178:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.178:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-三星堆-HD
-http://wouu.net:9977/udp/239.93.0.188:2201
+http://sckonlan.youankj.cn:8888/udp/239.93.0.188:2201
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电信直播-月亮湾-HD
-http://wouu.net:9977/udp/239.93.0.209:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.0.209:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-HD
-http://wouu.net:9977/udp/239.93.1.206:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.206:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-HD
-http://wouu.net:9977/udp/239.93.1.180:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.180:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-HD
-http://wouu.net:9977/udp/239.93.1.181:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.181:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-HD
-http://wouu.net:9977/udp/239.93.1.182:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.182:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-HD
-http://wouu.net:9977/udp/239.93.1.183:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.183:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-HD
-http://wouu.net:9977/udp/239.93.1.184:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.184:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-HD
-http://wouu.net:9977/udp/239.93.1.185:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.185:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",预留频道-HD
-http://wouu.net:9977/udp/239.93.1.186:5140
+http://sckonlan.youankj.cn:8888/udp/239.93.1.186:5140
