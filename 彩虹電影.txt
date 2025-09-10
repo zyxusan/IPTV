@@ -187,7 +187,6 @@ Zoom tv,http://185.236.229.62:9981/play/a02a
 中字劇場4,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/2a8cba45/index.m3u8
 中字劇場5,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/48a8dcb9/index.m3u8
 中字劇場6,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/e8f7e463/index.m3u8
-午夜劇場：高清,#genre#
 高清无码1,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/846a1ghm/index.m3u8
 高清无码2,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/1bf4a301/index.m3u8
 高清无码3,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/ahun18hg/index.m3u8
@@ -196,7 +195,6 @@ Zoom tv,http://185.236.229.62:9981/play/a02a
 高清无码6,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/984fa1vb/index.m3u8
 高清无码7,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/456oinav/index.m3u8
 MADOU,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/sajdxxzc/index.m3u8
-午夜劇場：色情,#genre#
 高清LIVE1,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8
 高清LIVE2,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/asdm3134/index.m3u8
 潘多拉,http://A/ku9/js/kulcc.js?id=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855d75/index.m3u8
