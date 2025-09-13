@@ -47,6 +47,7 @@ http://192.168.1.6:7000/udp/239.93.28.9:2192
 http://192.168.1.6:7000/udp/239.94.1.64:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",四川卫视高清
 http://192.168.1.6:7000/udp/239.94.0.60:5140
+http://web.dv88.cn:4321/rtp/239.11.0.43:5140
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",SCTV-2高清
 http://192.168.1.6:7000/udp/239.94.0.70:5140
 #EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",SCTV-3高清
