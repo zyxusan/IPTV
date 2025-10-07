@@ -14,7 +14,9 @@ happy,http://pulltest-bj.alivecdn.com:80/live/56747493203a21d3d2b37f275c141573.f
 潘多拉,http://pulltest-bj.alivecdn.com:80/live/f2fb126c9cd54abe720f2e43d1e7f5e5.flv
 彩虹电影,http://pulltest-bj.alivecdn.com:80/live/9fad43f9d63ac846f0aaf1b335fdca3d.flv
 彩虹k,http://pulltest-bj.alivecdn.com:80/live/497096e893d73f63ad4cc9ccd98775f1.flv
-彩虹e,http://pulltest-bj.alivecdn.com:80/live/523
+彩虹e,http://pulltest-bj.alivecdn.com:80/live/523f2444bef985aad4dc9f453d80fba6.flv
+松视3,http://pulltest-bj.alivecdn.com:80/live/16134eb66778c0f0622e586ba43e62f3.flv
+松视1,http://pulltest-bj.alivecdn.com:80/live/29a5f344a2d32ee4c874e1c9b66da93f.flv
 林晓雪,https://t26.cdn2020.com/video/m3u8/2022/03/08/a6eac24a/index.m3u8
 元宵,https://t26.cdn2020.com/video/m3u8/2022/02/14/670dada8/index.m3u8
 宁洋子,https://bfaskcdn.com/20240518/xHyaS0Ym/2000kb/hls/index.m3u8
