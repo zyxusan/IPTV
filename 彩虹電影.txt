@@ -1,18 +1,20 @@
 
 🔞松视台湾频道,#genre#
 
-松视1,http://iptv.4666888.xyz/iptv.php?id=20143
-松视2,http://iptv.4666888.xyz/iptv.php?id=20144
-松视3,http://iptv.4666888.xyz/iptv.php?id=20145
-彩虹e,http://iptv.4666888.xyz/iptv.php?id=20146
-K 頻道,http://iptv.4666888.xyz/iptv.php?id=20147
-彩虹电影,http://iptv.4666888.xyz/iptv.php?id=20148
-潘朵啦玩美,http://iptv.4666888.xyz/iptv.php?id=20149
-惊艳电影,http://iptv.4666888.xyz/iptv.php?id=20150
-Happy,http://iptv.4666888.xyz/iptv.php?id=20151
-香蕉,http://iptv.4666888.xyz/iptv.php?id=20152
-PIGOO,http://iptv.4666888.xyz/iptv.php?id=20153
-极限电影,http://iptv.4666888.xyz/iptv.php?id=20154
+驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3台http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
+极限,http://pulltest-bj.alivecdn.com:80/live/d2fe2499f21e4150c431ce485612f716.flv
+happy,http://pulltest-bj.alivecdn.com:80/live/56747493203a21d3d2b37f275c141573.flv
+香蕉,http://pulltest-bj.alivecdn.com:80/live/0256125b5debc516bd51a0656b2bb0d9.flv
+惊艳,http://pulltest-bj.alivecdn.com:80/live/0dea047a0b100cea5c016efe48aa8a19.flv
+潘多拉,http://pulltest-bj.alivecdn.com:80/live/f2fb126c9cd54abe720f2e43d1e7f5e5.flv
+彩虹电影,http://pulltest-bj.alivecdn.com:80/live/9fad43f9d63ac846f0aaf1b335fdca3d.flv
+彩虹k,http://pulltest-bj.alivecdn.com:80/live/497096e893d73f63ad4cc9ccd98775f1.flv
+彩虹e,http://pulltest-bj.alivecdn.com:80/live/523
 林晓雪,https://t26.cdn2020.com/video/m3u8/2022/03/08/a6eac24a/index.m3u8
 元宵,https://t26.cdn2020.com/video/m3u8/2022/02/14/670dada8/index.m3u8
 宁洋子,https://bfaskcdn.com/20240518/xHyaS0Ym/2000kb/hls/index.m3u8
