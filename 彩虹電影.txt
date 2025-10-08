@@ -393,6 +393,17 @@ BESTV赛事10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 东方购物2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226142/1.m3u8
 东方购物3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226144/1.m3u8
 好享购物,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225781/1.m3u8
+女性时尚,http://1314520.aaro.top:56777/dsdq.php?id=nxss&cd=jsb
+第一剧场,http://1314520.aaro.top:56777/dsdq.php?id=dyjc&cd=jsb
+风云剧场,http://1314520.aaro.top:56777/dsdq.php?id=fyjc&cd=jsb
+怀旧剧场,http://1314520.aaro.top:56777/dsdq.php?id=hjjc&cd=jsb
+风云音乐,http://1314520.aaro.top:56777/dsdq.php?id=fyyy&cd=jsb
+风云足球,http://1314520.aaro.top:56777/dsdq.php?id=fyzq&cd=jsb
+兵器科技,http://1314520.aaro.top:56777/dsdq.php?id=gfjs&cd=jsb
+世界地理,http://1314520.aaro.top:56777/dsdq.php?id=sjdl&cd=jsb
+央视台球,http://1314520.aaro.top:56777/dsdq.php?id=ystq&cd=jsb
+电视指南,http://1314520.aaro.top:56777/dsdq.php?id=dszn&cd=jsb
+高尔夫网球,http://1314520.aaro.top:56777/dsdq.php?id=gefwq&cd=jsb
 写真秒播1,http://160.202.226.85:88/DADCache/Bf/5deb12f5ab1ef508a1393d2046c117b1.m3u8
 写真秒播2,http://160.202.226.85:88/DADCache/Bf/03a22d1e228e1700ac02665fb9e67c2b.m3u8
 写真秒播3,http://160.202.226.85:88/DADCache/Bf/9f8366d01ab145eb56564fd3708fd679.m3u8
