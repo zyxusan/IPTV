@@ -15,7 +15,8 @@ happy,http://play.jkyfg.com:80/live/f25baecfd583f25303e5630cd621f98e.flv
 彩虹电影,http://play.jkyfg.com:80/live/14d788417614a96a5c1a54c12c30130e.flv
 彩虹k,http://play.jkyfg.com:80/live/f54c18d36d8b5b1d58b4c6f029f5ff38.flv
 彩虹e,http://play.jkyfg.com:80/live/44080de2f7db672555a751ddd6665dae.flv
-松视3,http://play.jkyfg.com:80/live/f78d3d999167
+松视3,http://play.jkyfg.com:80/live/f78d3d999167537b3e2454e8287f34c5.flv
+松视1,http://play.jkyfg.com:80/live/d43813213935a410bc11f1c578f20429.flv
 林晓雪,https://t26.cdn2020.com/video/m3u8/2022/03/08/a6eac24a/index.m3u8
 元宵,https://t26.cdn2020.com/video/m3u8/2022/02/14/670dada8/index.m3u8
 宁洋子,https://bfaskcdn.com/20240518/xHyaS0Ym/2000kb/hls/index.m3u8
