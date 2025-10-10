@@ -3,20 +3,21 @@
 
 驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-香蕉 ,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松視3,http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
-极限,http://play.jkyfg.com:80/live/6fefa9689ec8445059715d9103b148a8.flv
-happy,http://play.jkyfg.com:80/live/f25baecfd583f25303e5630cd621f98e.flv
-香蕉,http://play.jkyfg.com:80/live/f9d6f7bbff61787d26f0906e4eec950e.flv
-惊艳,http://play.jkyfg.com:80/live/673c688e9e1cf50aba14b281add714eb.flv
-潘多拉,http://play.jkyfg.com:80/live/e4613d1d82f7379656764c84eb70fff9.flv
-彩虹电影,http://play.jkyfg.com:80/live/14d788417614a96a5c1a54c12c30130e.flv
-彩虹k,http://play.jkyfg.com:80/live/f54c18d36d8b5b1d58b4c6f029f5ff38.flv
-彩虹e,http://play.jkyfg.com:80/live/44080de2f7db672555a751ddd6665dae.flv
-松视3,http://play.jkyfg.com:80/live/f78d3d999167537b3e2454e8287f34c5.flv
-松视1,http://play.jkyfg.com:80/live/d43813213935a410bc11f1c578f20429.flv
+松視3台http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
+极限,http://play.jkyfg.com:80/live/8825bbeb92e2f1c560f17ee800e0ff3e.flv
+happy,http://play.jkyfg.com:80/live/9d21344c9445242475e7ffa0d0a74f61.flv
+香蕉,http://play.jkyfg.com:80/live/c6d6e58a694441ccd2b409c2092b3a50.flv
+惊艳,http://play.jkyfg.com:80/live/f917da1ebb309cfaadd442008a63a84f.flv
+潘多拉,http://play.jkyfg.com:80/live/6fb42b77658e0665135c70cef1754744.flv
+彩虹电影,http://play.jkyfg.com:80/live/f94ee61a8a71233acaa9d432f6dbc513.flv
+彩虹k,http://play.jkyfg.com:80/live/16219b8142e73abdf934a0ee37f59852.flv
+彩虹e,http://play.jkyfg.com:80/live/3259d2dc1991ffd94309d0abbad656e8.flv
+松视3,http://play.jkyfg.com:80/live/87ffc5ab5d497be2ffda2c622759fc52.flv
+松视1,http://play.jkyfg.com:80/live/f2147d955aa7fd931b9c3f56513a6fce.flv
+
 林晓雪,https://t26.cdn2020.com/video/m3u8/2022/03/08/a6eac24a/index.m3u8
 元宵,https://t26.cdn2020.com/video/m3u8/2022/02/14/670dada8/index.m3u8
 宁洋子,https://bfaskcdn.com/20240518/xHyaS0Ym/2000kb/hls/index.m3u8
